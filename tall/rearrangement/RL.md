@@ -1,3 +1,10 @@
+## 1、数据集的环境安装不好
+openGL：Ubuntu下的GLX安装不成功。
+安装需要sudo apt-get ，但是没有权限。
+http://www.sztemple.cc/articles/linux%E4%B8%8B%E7%9A%84opengl-mesa%E5%92%8Cglx%E7%AE%80%E4%BB%8B
+https://en.wikibooks.org/w/index.php?title=OpenGL_Programming/Installation/Linux&veaction=edit&section=2
+
+
 ## training
 Exception: The following builds were found, but had missing dependencies. Only one valid platform is required to run AI2-THOR.
 Platform CloudRendering failed validation with the following errors: Vulkan API driver missing.
@@ -16,6 +23,10 @@ Platform Linux64 failed validation with the following errors: No valid X display
 
 
 
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4NDcxNzU0XX0=
+eyJoaXN0b3J5IjpbNjk2NDkwMTE0XX0=
 -->
