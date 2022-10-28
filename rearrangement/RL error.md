@@ -15,6 +15,8 @@ http://www.sztemple.cc/articles/linux%E4%B8%8B%E7%9A%84opengl-mesa%E5%92%8Cglx%E
 https://en.wikibooks.org/w/index.php?title=OpenGL_Programming/Installation/Linux&veaction=edit&section=2
 
 ## Vulkan
+Vulkan API安装不成功
+
 Exception: The following builds were found, but had missing dependencies. Only one valid platform is required to run AI2-THOR.
 Platform CloudRendering failed validation with the following errors: Vulkan API driver missing.
   CloudRendering requires libvulkan1. Please install by running: **sudo apt-get -y install libvulkan1**
@@ -24,6 +26,6 @@ Platform CloudRendering failed validation with the following errors: Vulkan API 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjM1NjM4MSwtNjkwMjg0NzI5LDE4ND
-k2NDUzMjQsMzU2NTkwNzIyXX0=
+eyJoaXN0b3J5IjpbMTM5MjAxNTEwLC02OTAyODQ3MjksMTg0OT
+Y0NTMyNCwzNTY1OTA3MjJdfQ==
 -->
