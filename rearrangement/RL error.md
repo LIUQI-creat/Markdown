@@ -20,12 +20,15 @@ Vulkan API安装不成功
 Exception: The following builds were found, but had missing dependencies. Only one valid platform is required to run AI2-THOR.
 Platform CloudRendering failed validation with the following errors: Vulkan API driver missing.
   CloudRendering requires libvulkan1. Please install by running: **sudo apt-get -y install libvulkan1**
+
+无法sudo
+通过cmake安装缺少环境
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221028111015.png)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjAxNTEwLC02OTAyODQ3MjksMTg0OT
-Y0NTMyNCwzNTY1OTA3MjJdfQ==
+eyJoaXN0b3J5IjpbMTEyOTA1MzQwNSwtNjkwMjg0NzI5LDE4ND
+k2NDUzMjQsMzU2NTkwNzIyXX0=
 -->
