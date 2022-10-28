@@ -14,12 +14,13 @@ Platform Linux64 failed validation with the following errors: No valid X display
 ## Vulkan
 Exception: The following builds were found, but had missing dependencies. Only one valid platform is required to run AI2-THOR.
 Platform CloudRendering failed validation with the following errors: Vulkan API driver missing.
-  CloudRendering requires libvulkan1. Please install by running: sudo apt-get -y install libvulkan1
-
+  CloudRendering requires libvulkan1. Please install by running: **sudo apt-get -y install libvulkan1**
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221028111015.png)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTY0NTMyNCwzNTY1OTA3MjJdfQ==
+eyJoaXN0b3J5IjpbLTY5MDI4NDcyOSwxODQ5NjQ1MzI0LDM1Nj
+U5MDcyMl19
 -->
