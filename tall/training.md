@@ -9,6 +9,7 @@ training :liukun 0.0001
 training : liukun  0.001  ---> conv1d 0.0001
 stop: liuqi 0.001
 training : transformer
+training: 100 train, 20 test  y
 
 
 **loss下降，但是对应的performance没有提高**
@@ -19,6 +20,6 @@ training : transformer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDk2MzYwMjgsLTE1MDk2MTU4OTUsOD
-k4NjkzNDUxLC04NDA0OTM3MzZdfQ==
+eyJoaXN0b3J5IjpbLTEyMTM4OTQwMTgsLTE5MDk2MzYwMjgsLT
+E1MDk2MTU4OTUsODk4NjkzNDUxLC04NDA0OTM3MzZdfQ==
 -->
