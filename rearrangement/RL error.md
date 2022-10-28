@@ -1,4 +1,4 @@
-## 1、数据集的环境安装不好
+## 1、数据集的环境安装不好. 2D 3D绘图应用API
 openGL：Ubuntu下的GLX安装不成功。
 安装需要sudo apt-get ，但是没有权限。
 http://www.sztemple.cc/articles/linux%E4%B8%8B%E7%9A%84opengl-mesa%E5%92%8Cglx%E7%AE%80%E4%BB%8B
@@ -21,6 +21,6 @@ Platform CloudRendering failed validation with the following errors: Vulkan API 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDI4NDcyOSwxODQ5NjQ1MzI0LDM1Nj
-U5MDcyMl19
+eyJoaXN0b3J5IjpbOTQ0NDIxMDEyLC02OTAyODQ3MjksMTg0OT
+Y0NTMyNCwzNTY1OTA3MjJdfQ==
 -->
