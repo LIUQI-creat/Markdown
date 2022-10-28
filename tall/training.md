@@ -9,7 +9,7 @@ training :liukun 0.0001
 training : liukun  0.001  ---> conv1d 0.0001
 stop: liuqi 0.001
 training : transformer
-training: 100 train, 20 test  y
+training: 100 train, 20 test  用来测试全连接层效果
 
 
 **loss下降，但是对应的performance没有提高**
@@ -20,6 +20,6 @@ training: 100 train, 20 test  y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTM4OTQwMTgsLTE5MDk2MzYwMjgsLT
-E1MDk2MTU4OTUsODk4NjkzNDUxLC04NDA0OTM3MzZdfQ==
+eyJoaXN0b3J5IjpbMzA5NDkzNDEsLTE5MDk2MzYwMjgsLTE1MD
+k2MTU4OTUsODk4NjkzNDUxLC04NDA0OTM3MzZdfQ==
 -->
