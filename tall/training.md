@@ -5,11 +5,11 @@ conv1d
 learning rate = 0.001
 
 
-liukun 0.0001
-liukun  0.001  ---> conv1d 0.0001
-liuqi 0.001
+training :liukun 0.0001    
+training : liukun  0.001  ---> conv1d 0.0001
+stop: liuqi 0.001
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0ODk2OTg2XX0=
+eyJoaXN0b3J5IjpbLTg0MDQ5MzczNl19
 -->
