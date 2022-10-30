@@ -4,7 +4,7 @@ conv1d
 全连接 dropout = 0
 learning rate = 0.001
 
-
+## 使用全连接or一维卷积
 training :liukun 0.0001    
 training : liukun  0.001  ---> conv1d 0.0001
 stop: liuqi 0.001
@@ -17,9 +17,13 @@ training: 100 train, 20 test  用来测试全连接层效果
 
 **Loss提高，但是对应的performance也提高**
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221028155221.png)
+最终结果，最好的是30 左右。
+分析：在训练集上的拟合的效果不应该这么差。
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5NDkzNDEsLTE5MDk2MzYwMjgsLTE1MD
-k2MTU4OTUsODk4NjkzNDUxLC04NDA0OTM3MzZdfQ==
+eyJoaXN0b3J5IjpbMTIwODY2NjYzMSwzMDk0OTM0MSwtMTkwOT
+YzNjAyOCwtMTUwOTYxNTg5NSw4OTg2OTM0NTEsLTg0MDQ5Mzcz
+Nl19
 -->
