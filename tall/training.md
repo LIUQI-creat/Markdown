@@ -20,10 +20,13 @@ training: 100 train, 20 test  用来测试全连接层效果
 最终结果，最好的是30 左右。
 分析：在训练集上的拟合的效果不应该这么差。
 
+## 修改loss
+
+##  没有
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODY2NjYzMSwzMDk0OTM0MSwtMTkwOT
+eyJoaXN0b3J5IjpbMTg5MDk1NTMyNSwzMDk0OTM0MSwtMTkwOT
 YzNjAyOCwtMTUwOTYxNTg5NSw4OTg2OTM0NTEsLTg0MDQ5Mzcz
 Nl19
 -->
