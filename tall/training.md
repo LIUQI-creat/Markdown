@@ -21,13 +21,13 @@ training: 100 train, 20 test  用来测试全连接层效果
 分析：在训练集上的拟合的效果不应该这么差。
 
 ## 修改loss
-
+改为
 
 ##  没有0的二维卷积
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTg0MzQ5NywzMDk0OTM0MSwtMTkwOT
-YzNjAyOCwtMTUwOTYxNTg5NSw4OTg2OTM0NTEsLTg0MDQ5Mzcz
-Nl19
+eyJoaXN0b3J5IjpbLTE4OTUzODc0OTgsMzA5NDkzNDEsLTE5MD
+k2MzYwMjgsLTE1MDk2MTU4OTUsODk4NjkzNDUxLC04NDA0OTM3
+MzZdfQ==
 -->
