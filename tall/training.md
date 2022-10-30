@@ -22,11 +22,12 @@ training: 100 train, 20 test  用来测试全连接层效果
 
 ## 修改loss
 
-##  没有
+
+##  没有0的二维卷积
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDk1NTMyNSwzMDk0OTM0MSwtMTkwOT
+eyJoaXN0b3J5IjpbLTkwMTg0MzQ5NywzMDk0OTM0MSwtMTkwOT
 YzNjAyOCwtMTUwOTYxNTg5NSw4OTg2OTM0NTEsLTg0MDQ5Mzcz
 Nl19
 -->
