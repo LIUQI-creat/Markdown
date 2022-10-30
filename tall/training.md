@@ -24,10 +24,10 @@ training: 100 train, 20 test  用来测试全连接层效果
 改为smooth_l1_loss 
 
 ##  没有0的二维卷积
-
+从一维又变成二维。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTEzNDExNCwtMTg5NTM4NzQ5OCwzMD
-k0OTM0MSwtMTkwOTYzNjAyOCwtMTUwOTYxNTg5NSw4OTg2OTM0
-NTEsLTg0MDQ5MzczNl19
+eyJoaXN0b3J5IjpbMTU2ODIyODkxNCwxNTUxMTM0MTE0LC0xOD
+k1Mzg3NDk4LDMwOTQ5MzQxLC0xOTA5NjM2MDI4LC0xNTA5NjE1
+ODk1LDg5ODY5MzQ1MSwtODQwNDkzNzM2XX0=
 -->
