@@ -33,12 +33,12 @@ training: 100 train, 20 test  用来测试全连接层效果
 ### 全连接
 ### 二维卷积
 ### transformer  8layers + layernorm
-### 
+### 全连接调整学习率更小
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDY2MTc5MTcsMTkwNjM5ODc3MCwtMT
-UzODcxMjI5OCwxNTY4MjI4OTE0LDE1NTExMzQxMTQsLTE4OTUz
-ODc0OTgsMzA5NDkzNDEsLTE5MDk2MzYwMjgsLTE1MDk2MTU4OT
-UsODk4NjkzNDUxLC04NDA0OTM3MzZdfQ==
+eyJoaXN0b3J5IjpbMTgwMTMzNjYwMywxOTA2Mzk4NzcwLC0xNT
+M4NzEyMjk4LDE1NjgyMjg5MTQsMTU1MTEzNDExNCwtMTg5NTM4
+NzQ5OCwzMDk0OTM0MSwtMTkwOTYzNjAyOCwtMTUwOTYxNTg5NS
+w4OTg2OTM0NTEsLTg0MDQ5MzczNl19
 -->
