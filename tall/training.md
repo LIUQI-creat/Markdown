@@ -17,7 +17,7 @@ training: 100 train, 20 test  用来测试全连接层效果
 
 **Loss提高，但是对应的performance也提高**
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221028155221.png)
-最终结果，最好的是30 左右。
+最终结果，最好的是 **30** 左右。
 分析：在训练集上的拟合的效果不应该这么差。
 
 ## 修改loss
@@ -36,8 +36,8 @@ training: 100 train, 20 test  用来测试全连接层效果
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyODkwNzEyLC0xNTM4NzEyMjk4LDE1Nj
-gyMjg5MTQsMTU1MTEzNDExNCwtMTg5NTM4NzQ5OCwzMDk0OTM0
-MSwtMTkwOTYzNjAyOCwtMTUwOTYxNTg5NSw4OTg2OTM0NTEsLT
-g0MDQ5MzczNl19
+eyJoaXN0b3J5IjpbMTkwNjM5ODc3MCwtMTUzODcxMjI5OCwxNT
+Y4MjI4OTE0LDE1NTExMzQxMTQsLTE4OTUzODc0OTgsMzA5NDkz
+NDEsLTE5MDk2MzYwMjgsLTE1MDk2MTU4OTUsODk4NjkzNDUxLC
+04NDA0OTM3MzZdfQ==
 -->
