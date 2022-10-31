@@ -39,10 +39,11 @@ training: 100 train, 20 test  用来测试全连接层效果
 效果很差，训的很慢
 ### 全连接调整学习率更小
 没训完
-###
+### pretrained transformer
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDg4MzUwNywtMTY2NzM4MDUzNSwxOD
+eyJoaXN0b3J5IjpbMTQ1OTUzNDYzOCwtMTY2NzM4MDUzNSwxOD
 AxMzM2NjAzLDE5MDYzOTg3NzAsLTE1Mzg3MTIyOTgsMTU2ODIy
 ODkxNCwxNTUxMTM0MTE0LC0xODk1Mzg3NDk4LDMwOTQ5MzQxLC
 0xOTA5NjM2MDI4LC0xNTA5NjE1ODk1LDg5ODY5MzQ1MSwtODQw
