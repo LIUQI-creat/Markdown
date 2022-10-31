@@ -36,13 +36,13 @@ training: 100 train, 20 test  用来测试全连接层效果
 ### 二维卷积
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221031185608.png)
 ### transformer  8layers + layernorm
-效果很差，
+效果很差，训的很慢
 ### 全连接调整学习率更小
 没训完
-
+###
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTk5MTc5OSwtMTY2NzM4MDUzNSwxOD
+eyJoaXN0b3J5IjpbMTYwMDg4MzUwNywtMTY2NzM4MDUzNSwxOD
 AxMzM2NjAzLDE5MDYzOTg3NzAsLTE1Mzg3MTIyOTgsMTU2ODIy
 ODkxNCwxNTUxMTM0MTE0LC0xODk1Mzg3NDk4LDMwOTQ5MzQxLC
 0xOTA5NjM2MDI4LC0xNTA5NjE1ODk1LDg5ODY5MzQ1MSwtODQw
