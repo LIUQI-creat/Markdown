@@ -26,8 +26,16 @@ training: 100 train, 20 test  用来测试全连接层效果
 ##  没有0的二维卷积
 从一维又变成二维。
 
+## 把最后的特征图修改为二维
+### transformer
+### 全连接
+### 二维卷积
+### transformer  8layers + layernorm
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODIyODkxNCwxNTUxMTM0MTE0LC0xOD
-k1Mzg3NDk4LDMwOTQ5MzQxLC0xOTA5NjM2MDI4LC0xNTA5NjE1
-ODk1LDg5ODY5MzQ1MSwtODQwNDkzNzM2XX0=
+eyJoaXN0b3J5IjpbLTE1Mzg3MTIyOTgsMTU2ODIyODkxNCwxNT
+UxMTM0MTE0LC0xODk1Mzg3NDk4LDMwOTQ5MzQxLC0xOTA5NjM2
+MDI4LC0xNTA5NjE1ODk1LDg5ODY5MzQ1MSwtODQwNDkzNzM2XX
+0=
 -->
