@@ -33,12 +33,13 @@ Platform CloudRendering failed validation with the following errors: Vulkan API 
 ## glx
 sudo apt-get install mesa-utils
 sudo apt install mesa
+
 glxinfo | grep rendering
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Njg4NTE5NCwtMTYyNTIyMjE2NywxND
-Y1MDcwMTI3LDExMjkwNTM0MDUsLTY5MDI4NDcyOSwxODQ5NjQ1
-MzI0LDM1NjU5MDcyMl19
+eyJoaXN0b3J5IjpbLTI0MDEzNDA4OCwxMDk2ODg1MTk0LC0xNj
+I1MjIyMTY3LDE0NjUwNzAxMjcsMTEyOTA1MzQwNSwtNjkwMjg0
+NzI5LDE4NDk2NDUzMjQsMzU2NTkwNzIyXX0=
 -->
