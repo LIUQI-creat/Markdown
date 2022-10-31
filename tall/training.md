@@ -22,9 +22,11 @@ training: 100 train, 20 test  用来测试全连接层效果
 
 ## 修改loss
 改为smooth_l1_loss 
-
+效果很差
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221031132851.png)
 ##  没有0的二维卷积
-从一维又变成二维。
+从一维又变成二维。去除了为0 的部分，用长方形的卷积核进行卷积
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221031133005.png)
 
 ## 把最后的特征图修改为二维
 ### transformer
@@ -34,8 +36,8 @@ training: 100 train, 20 test  用来测试全连接层效果
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg3MTIyOTgsMTU2ODIyODkxNCwxNT
-UxMTM0MTE0LC0xODk1Mzg3NDk4LDMwOTQ5MzQxLC0xOTA5NjM2
-MDI4LC0xNTA5NjE1ODk1LDg5ODY5MzQ1MSwtODQwNDkzNzM2XX
-0=
+eyJoaXN0b3J5IjpbNzkyODkwNzEyLC0xNTM4NzEyMjk4LDE1Nj
+gyMjg5MTQsMTU1MTEzNDExNCwtMTg5NTM4NzQ5OCwzMDk0OTM0
+MSwtMTkwOTYzNjAyOCwtMTUwOTYxNTg5NSw4OTg2OTM0NTEsLT
+g0MDQ5MzczNl19
 -->
