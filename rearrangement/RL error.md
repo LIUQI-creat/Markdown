@@ -40,12 +40,15 @@ sudo add-apt-repository ppa:kisak/kisak-mesa
 sudo apt update
 sudo apt install mesa
 
+apt-get update && apt-get install -qy build-essential libgl1-mesa-dev
+sudo apt-get -y install libvulkan1
+
 glxinfo | grep rendering
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzk2MDE3MiwxMDk2ODg1MTk0LC0xNj
+eyJoaXN0b3J5IjpbMTgxMzc0NDQxNywxMDk2ODg1MTk0LC0xNj
 I1MjIyMTY3LDE0NjUwNzAxMjcsMTEyOTA1MzQwNSwtNjkwMjg0
 NzI5LDE4NDk2NDUzMjQsMzU2NTkwNzIyXX0=
 -->
