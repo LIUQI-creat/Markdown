@@ -31,6 +31,7 @@ training: 100 train, 20 test  用来测试全连接层效果
 ## 把最后的特征图修改为二维
 ### transformer
 ### 全连接
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221031185802.png)
 ### 二维卷积
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221031185608.png)
 ### transformer  8layers + layernorm
@@ -38,7 +39,7 @@ training: 100 train, 20 test  用来测试全连接层效果
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDY1NDk2NywxODAxMzM2NjAzLDE5MD
+eyJoaXN0b3J5IjpbMTg2NTEzMDczOSwxODAxMzM2NjAzLDE5MD
 YzOTg3NzAsLTE1Mzg3MTIyOTgsMTU2ODIyODkxNCwxNTUxMTM0
 MTE0LC0xODk1Mzg3NDk4LDMwOTQ5MzQxLC0xOTA5NjM2MDI4LC
 0xNTA5NjE1ODk1LDg5ODY5MzQ1MSwtODQwNDkzNzM2XX0=
