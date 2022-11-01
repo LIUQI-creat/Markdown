@@ -46,12 +46,11 @@ sudo apt-get -y install libvulkan1
 glxinfo | grep rendering
 
 
-make sure X server with OpenGL is running, and the OpenGL extensions have been installed for your graphics card.
+**make sure X server with OpenGL is running, and the OpenGL extensions have been installed for your graphics card.**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDU3ODAxMywxODEzNzQ0NDE3LDEwOT
-Y4ODUxOTQsLTE2MjUyMjIxNjcsMTQ2NTA3MDEyNywxMTI5MDUz
-NDA1LC02OTAyODQ3MjksMTg0OTY0NTMyNCwzNTY1OTA3MjJdfQ
-==
+eyJoaXN0b3J5IjpbMjEyMTA3ODExLDE4MTM3NDQ0MTcsMTA5Nj
+g4NTE5NCwtMTYyNTIyMjE2NywxNDY1MDcwMTI3LDExMjkwNTM0
+MDUsLTY5MDI4NDcyOSwxODQ5NjQ1MzI0LDM1NjU5MDcyMl19
 -->
