@@ -47,7 +47,7 @@ apt-get update && apt-get install -qy build-essential libgl1-mesa-dev
 sudo apt-get -y install libvulkan1
 
 sudo apt-get install xbase-clients
-
+systemctl set-default graphical.target
 glxinfo | grep rendering
 
 
@@ -55,8 +55,8 @@ glxinfo | grep rendering
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTYzOTY0MjYsMjEyMTA3ODExLDE4MT
-M3NDQ0MTcsMTA5Njg4NTE5NCwtMTYyNTIyMjE2NywxNDY1MDcw
-MTI3LDExMjkwNTM0MDUsLTY5MDI4NDcyOSwxODQ5NjQ1MzI0LD
-M1NjU5MDcyMl19
+eyJoaXN0b3J5IjpbLTExMzEwNTAzNTYsLTE0NTYzOTY0MjYsMj
+EyMTA3ODExLDE4MTM3NDQ0MTcsMTA5Njg4NTE5NCwtMTYyNTIy
+MjE2NywxNDY1MDcwMTI3LDExMjkwNTM0MDUsLTY5MDI4NDcyOS
+wxODQ5NjQ1MzI0LDM1NjU5MDcyMl19
 -->
