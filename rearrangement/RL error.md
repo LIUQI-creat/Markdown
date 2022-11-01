@@ -10,6 +10,8 @@ The following builds were found, but had missing dependencies. Only one valid pl
 Platform Linux64 failed validation with the following errors: No valid X display found
   Linux64 requires a X11 server to be running with GLX. If you have a NVIDIA GPU, please run: **sudo ai2thor-xorg start**
 
+执行Error: unable to open display
+
 **【问题】**
 安装需要sudo apt-get ，但是没有权限。
 http://www.sztemple.cc/articles/linux%E4%B8%8B%E7%9A%84opengl-mesa%E5%92%8Cglx%E7%AE%80%E4%BB%8B
@@ -43,6 +45,8 @@ sudo apt install mesa
 apt-get update && apt-get install -qy build-essential libgl1-mesa-dev
 sudo apt-get -y install libvulkan1
 
+sudo apt-get install xbase-clients
+
 glxinfo | grep rendering
 
 
@@ -50,7 +54,8 @@ glxinfo | grep rendering
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTA3ODExLDE4MTM3NDQ0MTcsMTA5Nj
-g4NTE5NCwtMTYyNTIyMjE2NywxNDY1MDcwMTI3LDExMjkwNTM0
-MDUsLTY5MDI4NDcyOSwxODQ5NjQ1MzI0LDM1NjU5MDcyMl19
+eyJoaXN0b3J5IjpbLTE0NTE5OTkzODAsMjEyMTA3ODExLDE4MT
+M3NDQ0MTcsMTA5Njg4NTE5NCwtMTYyNTIyMjE2NywxNDY1MDcw
+MTI3LDExMjkwNTM0MDUsLTY5MDI4NDcyOSwxODQ5NjQ1MzI0LD
+M1NjU5MDcyMl19
 -->
