@@ -32,6 +32,8 @@ Platform CloudRendering failed validation with the following errors: Vulkan API 
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221028111015.png)
 
 
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221101143106.png)
+
 
 ## glx
 sudo apt-get update
@@ -55,8 +57,8 @@ glxinfo | grep rendering
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzEwNTAzNTYsLTE0NTYzOTY0MjYsMj
-EyMTA3ODExLDE4MTM3NDQ0MTcsMTA5Njg4NTE5NCwtMTYyNTIy
-MjE2NywxNDY1MDcwMTI3LDExMjkwNTM0MDUsLTY5MDI4NDcyOS
-wxODQ5NjQ1MzI0LDM1NjU5MDcyMl19
+eyJoaXN0b3J5IjpbLTY2ODgzMzIxMywtMTEzMTA1MDM1NiwtMT
+Q1NjM5NjQyNiwyMTIxMDc4MTEsMTgxMzc0NDQxNywxMDk2ODg1
+MTk0LC0xNjI1MjIyMTY3LDE0NjUwNzAxMjcsMTEyOTA1MzQwNS
+wtNjkwMjg0NzI5LDE4NDk2NDUzMjQsMzU2NTkwNzIyXX0=
 -->
