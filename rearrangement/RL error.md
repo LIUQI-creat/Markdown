@@ -10,7 +10,8 @@ The following builds were found, but had missing dependencies. Only one valid pl
 Platform Linux64 failed validation with the following errors: No valid X display found
   Linux64 requires a X11 server to be running with GLX. If you have a NVIDIA GPU, please run: **sudo ai2thor-xorg start**
 
-执行Error: unable to open display
+执行完安装命令，执行glxinfo | grep "OpenGL version"：
+** Error: unable to open display**
 
 **【问题】**
 安装需要sudo apt-get ，但是没有权限。
@@ -54,7 +55,7 @@ glxinfo | grep rendering
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE5OTkzODAsMjEyMTA3ODExLDE4MT
+eyJoaXN0b3J5IjpbLTE0NTYzOTY0MjYsMjEyMTA3ODExLDE4MT
 M3NDQ0MTcsMTA5Njg4NTE5NCwtMTYyNTIyMjE2NywxNDY1MDcw
 MTI3LDExMjkwNTM0MDUsLTY5MDI4NDcyOSwxODQ5NjQ1MzI0LD
 M1NjU5MDcyMl19
