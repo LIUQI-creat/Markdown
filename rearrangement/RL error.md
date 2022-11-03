@@ -61,7 +61,7 @@ glxinfo | grep rendering
 
 ## 运行十分卡顿
 不能进行其他操作，左上角的虚拟界面会变灰黑屏
-## 出错1
+## 出错1  multiprocess并行处理
 ## 出错2  与ai2thor数据库连接
 
 
@@ -76,7 +76,7 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTIwOTA4NSwtMjA1Nzc5NDY5NCwtNj
+eyJoaXN0b3J5IjpbLTIwNTAyMzYwMSwtMjA1Nzc5NDY5NCwtNj
 Y4ODMzMjEzLC0xMTMxMDUwMzU2LC0xNDU2Mzk2NDI2LDIxMjEw
 NzgxMSwxODEzNzQ0NDE3LDEwOTY4ODUxOTQsLTE2MjUyMjIxNj
 csMTQ2NTA3MDEyNywxMTI5MDUzNDA1LC02OTAyODQ3MjksMTg0
