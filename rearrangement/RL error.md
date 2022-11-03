@@ -60,7 +60,7 @@ glxinfo | grep rendering
 ## 运行效果
 
 ## 运行十分卡顿
-不能进行其他操作，左上角的虚拟界面会bi
+不能进行其他操作，左上角的虚拟界面会变灰黑屏
 ## 出错1
 ## 出错2
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221103194656.png)
@@ -76,7 +76,7 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDg1NDcxOCwtMjA1Nzc5NDY5NCwtNj
+eyJoaXN0b3J5IjpbLTExNjM3NzE3MSwtMjA1Nzc5NDY5NCwtNj
 Y4ODMzMjEzLC0xMTMxMDUwMzU2LC0xNDU2Mzk2NDI2LDIxMjEw
 NzgxMSwxODEzNzQ0NDE3LDEwOTY4ODUxOTQsLTE2MjUyMjIxNj
 csMTQ2NTA3MDEyNywxMTI5MDUzNDA1LC02OTAyODQ3MjksMTg0
