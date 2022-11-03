@@ -62,8 +62,8 @@ glxinfo | grep rendering
 ## 运行十分卡顿
 不能进行其他操作，左上角的虚拟界面会变灰黑屏
 ## 出错1
-## 出错2 
-![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221103194656.png)
+## 出错2  与ai2thor数据库连接
+
 
 
 
@@ -76,9 +76,9 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2MTU3MTA3LC0yMDU3Nzk0Njk0LC02Nj
-g4MzMyMTMsLTExMzEwNTAzNTYsLTE0NTYzOTY0MjYsMjEyMTA3
-ODExLDE4MTM3NDQ0MTcsMTA5Njg4NTE5NCwtMTYyNTIyMjE2Ny
-wxNDY1MDcwMTI3LDExMjkwNTM0MDUsLTY5MDI4NDcyOSwxODQ5
-NjQ1MzI0LDM1NjU5MDcyMl19
+eyJoaXN0b3J5IjpbMjAzMTIwOTA4NSwtMjA1Nzc5NDY5NCwtNj
+Y4ODMzMjEzLC0xMTMxMDUwMzU2LC0xNDU2Mzk2NDI2LDIxMjEw
+NzgxMSwxODEzNzQ0NDE3LDEwOTY4ODUxOTQsLTE2MjUyMjIxNj
+csMTQ2NTA3MDEyNywxMTI5MDUzNDA1LC02OTAyODQ3MjksMTg0
+OTY0NTMyNCwzNTY1OTA3MjJdfQ==
 -->
