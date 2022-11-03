@@ -58,7 +58,7 @@ glxinfo | grep rendering
 
 # 2、在1070Ti 运行错误
 ## 数据加载运行效果
-
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221103200240.jpg)
 ## 运行十分卡顿
 不能进行其他操作，左上角的虚拟界面会变灰黑屏
 ## 出错1  multiprocess并行处理
@@ -78,10 +78,10 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDcxMDU3NDksLTE4NzIwNjA2MzQsMT
-Y3Mzk4MzAxMCwtMjA1MDIzNjAxLC0yMDU3Nzk0Njk0LC02Njg4
-MzMyMTMsLTExMzEwNTAzNTYsLTE0NTYzOTY0MjYsMjEyMTA3OD
-ExLDE4MTM3NDQ0MTcsMTA5Njg4NTE5NCwtMTYyNTIyMjE2Nywx
-NDY1MDcwMTI3LDExMjkwNTM0MDUsLTY5MDI4NDcyOSwxODQ5Nj
-Q1MzI0LDM1NjU5MDcyMl19
+eyJoaXN0b3J5IjpbNTI5ODkxNzI4LC0xODcyMDYwNjM0LDE2Nz
+M5ODMwMTAsLTIwNTAyMzYwMSwtMjA1Nzc5NDY5NCwtNjY4ODMz
+MjEzLC0xMTMxMDUwMzU2LC0xNDU2Mzk2NDI2LDIxMjEwNzgxMS
+wxODEzNzQ0NDE3LDEwOTY4ODUxOTQsLTE2MjUyMjIxNjcsMTQ2
+NTA3MDEyNywxMTI5MDUzNDA1LC02OTAyODQ3MjksMTg0OTY0NT
+MyNCwzNTY1OTA3MjJdfQ==
 -->
