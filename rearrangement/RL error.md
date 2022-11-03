@@ -56,15 +56,20 @@ glxinfo | grep rendering
 **make sure X server with OpenGL is running, and the OpenGL extensions have been installed for your graphics card.**
 
 
+# 2、在1070Ti 运行错误
+
+
+
+
 
 engine.py    1997      / 319
 vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc3OTQ2OTQsLTY2ODgzMzIxMywtMT
-EzMTA1MDM1NiwtMTQ1NjM5NjQyNiwyMTIxMDc4MTEsMTgxMzc0
-NDQxNywxMDk2ODg1MTk0LC0xNjI1MjIyMTY3LDE0NjUwNzAxMj
-csMTEyOTA1MzQwNSwtNjkwMjg0NzI5LDE4NDk2NDUzMjQsMzU2
-NTkwNzIyXX0=
+eyJoaXN0b3J5IjpbMzk2NTM0MTQxLC0yMDU3Nzk0Njk0LC02Nj
+g4MzMyMTMsLTExMzEwNTAzNTYsLTE0NTYzOTY0MjYsMjEyMTA3
+ODExLDE4MTM3NDQ0MTcsMTA5Njg4NTE5NCwtMTYyNTIyMjE2Ny
+wxNDY1MDcwMTI3LDExMjkwNTM0MDUsLTY5MDI4NDcyOSwxODQ5
+NjQ1MzI0LDM1NjU5MDcyMl19
 -->
