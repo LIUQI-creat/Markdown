@@ -62,7 +62,7 @@ glxinfo | grep rendering
 ## 运行十分卡顿
 不能进行其他操作，左上角的虚拟界面会变灰黑屏
 ## 出错1  multiprocess并行处理
-
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221103195751.png)
 ## 出错2  与ai2thor数据库连接
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/1bfa04b032597b2d95755d1d6fe1afe.jpg)
 
@@ -78,9 +78,10 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Mzk4MzAxMCwtMjA1MDIzNjAxLC0yMD
-U3Nzk0Njk0LC02Njg4MzMyMTMsLTExMzEwNTAzNTYsLTE0NTYz
-OTY0MjYsMjEyMTA3ODExLDE4MTM3NDQ0MTcsMTA5Njg4NTE5NC
-wtMTYyNTIyMjE2NywxNDY1MDcwMTI3LDExMjkwNTM0MDUsLTY5
-MDI4NDcyOSwxODQ5NjQ1MzI0LDM1NjU5MDcyMl19
+eyJoaXN0b3J5IjpbLTE4NzIwNjA2MzQsMTY3Mzk4MzAxMCwtMj
+A1MDIzNjAxLC0yMDU3Nzk0Njk0LC02Njg4MzMyMTMsLTExMzEw
+NTAzNTYsLTE0NTYzOTY0MjYsMjEyMTA3ODExLDE4MTM3NDQ0MT
+csMTA5Njg4NTE5NCwtMTYyNTIyMjE2NywxNDY1MDcwMTI3LDEx
+MjkwNTM0MDUsLTY5MDI4NDcyOSwxODQ5NjQ1MzI0LDM1NjU5MD
+cyMl19
 -->
