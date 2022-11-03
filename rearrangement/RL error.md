@@ -59,7 +59,7 @@ glxinfo | grep rendering
 # 2、在1070Ti 运行错误
 ## 运行效果
 
-## 运行
+## 运行十分卡顿
 ## 出错1
 ## 出错2
 
@@ -74,9 +74,9 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzYwMzExNjQsLTIwNTc3OTQ2OTQsLT
-Y2ODgzMzIxMywtMTEzMTA1MDM1NiwtMTQ1NjM5NjQyNiwyMTIx
-MDc4MTEsMTgxMzc0NDQxNywxMDk2ODg1MTk0LC0xNjI1MjIyMT
-Y3LDE0NjUwNzAxMjcsMTEyOTA1MzQwNSwtNjkwMjg0NzI5LDE4
-NDk2NDUzMjQsMzU2NTkwNzIyXX0=
+eyJoaXN0b3J5IjpbMTg3NDU5MTE0MywtMjA1Nzc5NDY5NCwtNj
+Y4ODMzMjEzLC0xMTMxMDUwMzU2LC0xNDU2Mzk2NDI2LDIxMjEw
+NzgxMSwxODEzNzQ0NDE3LDEwOTY4ODUxOTQsLTE2MjUyMjIxNj
+csMTQ2NTA3MDEyNywxMTI5MDUzNDA1LC02OTAyODQ3MjksMTg0
+OTY0NTMyNCwzNTY1OTA3MjJdfQ==
 -->
