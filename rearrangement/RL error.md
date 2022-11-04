@@ -46,6 +46,7 @@ Vulkan没装好
 
 **【解决】**
 https://linuxconfig.org/install-and-test-vulkan-on-linux
+https://command-not-found.com/vulkaninfo
 
 ## Vulkan
 Vulkan API安装不成功
@@ -107,11 +108,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzEwOTMxOCwtNTM1OTM5NDU1LC0xOD
-Q5MjM2MDAzLDE5MzA1MzUyMjMsNzUyNjU5MjYxLDE1ODU3Nzcz
-NDMsMTQ3MDUzNzQxNywyMTIwMzg5OTcxLDUyOTg5MTcyOCwtMT
-g3MjA2MDYzNCwxNjczOTgzMDEwLC0yMDUwMjM2MDEsLTIwNTc3
-OTQ2OTQsLTY2ODgzMzIxMywtMTEzMTA1MDM1NiwtMTQ1NjM5Nj
-QyNiwyMTIxMDc4MTEsMTgxMzc0NDQxNywxMDk2ODg1MTk0LC0x
-NjI1MjIyMTY3XX0=
+eyJoaXN0b3J5IjpbLTExMjU0MDYxNjYsLTUzNTkzOTQ1NSwtMT
+g0OTIzNjAwMywxOTMwNTM1MjIzLDc1MjY1OTI2MSwxNTg1Nzc3
+MzQzLDE0NzA1Mzc0MTcsMjEyMDM4OTk3MSw1Mjk4OTE3MjgsLT
+E4NzIwNjA2MzQsMTY3Mzk4MzAxMCwtMjA1MDIzNjAxLC0yMDU3
+Nzk0Njk0LC02Njg4MzMyMTMsLTExMzEwNTAzNTYsLTE0NTYzOT
+Y0MjYsMjEyMTA3ODExLDE4MTM3NDQ0MTcsMTA5Njg4NTE5NCwt
+MTYyNTIyMjE2N119
 -->
