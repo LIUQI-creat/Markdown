@@ -25,7 +25,8 @@ https://askubuntu.com/questions/1206767/understanding-glxinfo-error
 http://www.sztemple.cc/articles/linux%E4%B8%8B%E7%9A%84opengl-mesa%E5%92%8Cglx%E7%AE%80%E4%BB%8B
 https://en.wikibooks.org/w/index.php?title=OpenGL_Programming/Installation/Linux&veaction=edit&section=2
 
-## 启动 x-server
+##  解决方法
+### 解决方法1： 用脚本启动x-server
 https://github.com/allenai/ai2thor/issues/993
 **【问题】**
 执行不了脚本，没有权限。
@@ -91,11 +92,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyNjU5MjYxLDE1ODU3NzczNDMsMTQ3MD
-UzNzQxNywyMTIwMzg5OTcxLDUyOTg5MTcyOCwtMTg3MjA2MDYz
-NCwxNjczOTgzMDEwLC0yMDUwMjM2MDEsLTIwNTc3OTQ2OTQsLT
-Y2ODgzMzIxMywtMTEzMTA1MDM1NiwtMTQ1NjM5NjQyNiwyMTIx
-MDc4MTEsMTgxMzc0NDQxNywxMDk2ODg1MTk0LC0xNjI1MjIyMT
-Y3LDE0NjUwNzAxMjcsMTEyOTA1MzQwNSwtNjkwMjg0NzI5LDE4
-NDk2NDUzMjRdfQ==
+eyJoaXN0b3J5IjpbLTE2NjE1ODUxODMsNzUyNjU5MjYxLDE1OD
+U3NzczNDMsMTQ3MDUzNzQxNywyMTIwMzg5OTcxLDUyOTg5MTcy
+OCwtMTg3MjA2MDYzNCwxNjczOTgzMDEwLC0yMDUwMjM2MDEsLT
+IwNTc3OTQ2OTQsLTY2ODgzMzIxMywtMTEzMTA1MDM1NiwtMTQ1
+NjM5NjQyNiwyMTIxMDc4MTEsMTgxMzc0NDQxNywxMDk2ODg1MT
+k0LC0xNjI1MjIyMTY3LDE0NjUwNzAxMjcsMTEyOTA1MzQwNSwt
+NjkwMjg0NzI5XX0=
 -->
