@@ -12,6 +12,8 @@ Platform Linux64 failed validation with the following errors: No valid X display
 
 执行完安装命令，执行glxinfo | grep "OpenGL version"：
 ** Error: unable to open display**
+
+https://askubuntu.com/questions/1206767/understanding-glxinfo-error
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221104100813.png)
 服务器上不能运行？
 
@@ -81,10 +83,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDM4OTk3MSw1Mjk4OTE3MjgsLTE4Nz
-IwNjA2MzQsMTY3Mzk4MzAxMCwtMjA1MDIzNjAxLC0yMDU3Nzk0
-Njk0LC02Njg4MzMyMTMsLTExMzEwNTAzNTYsLTE0NTYzOTY0Mj
-YsMjEyMTA3ODExLDE4MTM3NDQ0MTcsMTA5Njg4NTE5NCwtMTYy
-NTIyMjE2NywxNDY1MDcwMTI3LDExMjkwNTM0MDUsLTY5MDI4ND
-cyOSwxODQ5NjQ1MzI0LDM1NjU5MDcyMl19
+eyJoaXN0b3J5IjpbMTQ3MDUzNzQxNywyMTIwMzg5OTcxLDUyOT
+g5MTcyOCwtMTg3MjA2MDYzNCwxNjczOTgzMDEwLC0yMDUwMjM2
+MDEsLTIwNTc3OTQ2OTQsLTY2ODgzMzIxMywtMTEzMTA1MDM1Ni
+wtMTQ1NjM5NjQyNiwyMTIxMDc4MTEsMTgxMzc0NDQxNywxMDk2
+ODg1MTk0LC0xNjI1MjIyMTY3LDE0NjUwNzAxMjcsMTEyOTA1Mz
+QwNSwtNjkwMjg0NzI5LDE4NDk2NDUzMjQsMzU2NTkwNzIyXX0=
+
 -->
