@@ -34,6 +34,8 @@ Passing in `headless` in this context means you want a controller without actual
 https://github.com/allenai/ai2thor/issues/993
 **【问题】**
 执行不了脚本，没有权限。
+**【解决】**
+https://github.com/allenai/ai2thor/issues/325
 
 ### 解决方法2：使用CloudRendering platform
 这样就不启动Xorg server
@@ -100,11 +102,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDIzOTQxMCwxOTMwNTM1MjIzLDc1Mj
-Y1OTI2MSwxNTg1Nzc3MzQzLDE0NzA1Mzc0MTcsMjEyMDM4OTk3
-MSw1Mjk4OTE3MjgsLTE4NzIwNjA2MzQsMTY3Mzk4MzAxMCwtMj
-A1MDIzNjAxLC0yMDU3Nzk0Njk0LC02Njg4MzMyMTMsLTExMzEw
-NTAzNTYsLTE0NTYzOTY0MjYsMjEyMTA3ODExLDE4MTM3NDQ0MT
-csMTA5Njg4NTE5NCwtMTYyNTIyMjE2NywxNDY1MDcwMTI3LDEx
-MjkwNTM0MDVdfQ==
+eyJoaXN0b3J5IjpbLTE4NDkyMzYwMDMsMTkzMDUzNTIyMyw3NT
+I2NTkyNjEsMTU4NTc3NzM0MywxNDcwNTM3NDE3LDIxMjAzODk5
+NzEsNTI5ODkxNzI4LC0xODcyMDYwNjM0LDE2NzM5ODMwMTAsLT
+IwNTAyMzYwMSwtMjA1Nzc5NDY5NCwtNjY4ODMzMjEzLC0xMTMx
+MDUwMzU2LC0xNDU2Mzk2NDI2LDIxMjEwNzgxMSwxODEzNzQ0ND
+E3LDEwOTY4ODUxOTQsLTE2MjUyMjIxNjcsMTQ2NTA3MDEyNywx
+MTI5MDUzNDA1XX0=
 -->
