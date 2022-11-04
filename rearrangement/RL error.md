@@ -58,6 +58,8 @@ https://blog.csdn.net/luolinll1212/article/details/113261022
 > vulkaninfo | less
 
 **error: XDG_RUNTIME_DIR not set in the environment.**
+https://github.com/allenai/ai2thor-docker
+
 
 ## Vulkan
 Vulkan API安装不成功
@@ -119,11 +121,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkzNjc5NjUsLTE3MzA5MzczNDEsMj
-U1Mzk2NjUxLC04NDczMjgwMTIsLTExNTI5ODU2NiwtNjk3OTEy
-MDIzLC0xMTI1NDA2MTY2LC01MzU5Mzk0NTUsLTE4NDkyMzYwMD
-MsMTkzMDUzNTIyMyw3NTI2NTkyNjEsMTU4NTc3NzM0MywxNDcw
-NTM3NDE3LDIxMjAzODk5NzEsNTI5ODkxNzI4LC0xODcyMDYwNj
-M0LDE2NzM5ODMwMTAsLTIwNTAyMzYwMSwtMjA1Nzc5NDY5NCwt
-NjY4ODMzMjEzXX0=
+eyJoaXN0b3J5IjpbLTEwODQ4OTMxNjgsLTEzMDkzNjc5NjUsLT
+E3MzA5MzczNDEsMjU1Mzk2NjUxLC04NDczMjgwMTIsLTExNTI5
+ODU2NiwtNjk3OTEyMDIzLC0xMTI1NDA2MTY2LC01MzU5Mzk0NT
+UsLTE4NDkyMzYwMDMsMTkzMDUzNTIyMyw3NTI2NTkyNjEsMTU4
+NTc3NzM0MywxNDcwNTM3NDE3LDIxMjAzODk5NzEsNTI5ODkxNz
+I4LC0xODcyMDYwNjM0LDE2NzM5ODMwMTAsLTIwNTAyMzYwMSwt
+MjA1Nzc5NDY5NF19
 -->
