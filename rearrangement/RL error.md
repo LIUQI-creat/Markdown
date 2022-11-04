@@ -41,10 +41,11 @@ https://github.com/allenai/ai2thor/issues/325
 
 ### 解决方法2：使用CloudRendering platform
 这样就不启动Xorg server
+采用
 https://github.com/allenai/ai2thor/issues/934
 **【问题】**
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221104115444.png)
-Vulkan没装好
+Vulkan还不匹配，还需要重新装下
 
 **【解决】**
 https://linuxconfig.org/install-and-test-vulkan-on-linux
@@ -110,7 +111,7 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzcyMTQ5OTksLTY5NzkxMjAyMywtMT
+eyJoaXN0b3J5IjpbLTE0ODIyMzU5NzYsLTY5NzkxMjAyMywtMT
 EyNTQwNjE2NiwtNTM1OTM5NDU1LC0xODQ5MjM2MDAzLDE5MzA1
 MzUyMjMsNzUyNjU5MjYxLDE1ODU3NzczNDMsMTQ3MDUzNzQxNy
 wyMTIwMzg5OTcxLDUyOTg5MTcyOCwtMTg3MjA2MDYzNCwxNjcz
