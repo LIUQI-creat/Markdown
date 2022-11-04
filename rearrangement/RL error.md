@@ -41,7 +41,7 @@ https://github.com/allenai/ai2thor/issues/325
 
 ### 解决方法2：使用CloudRendering platform
 这样就不启动Xorg server
-采用
+采用CloudRendering platform
 https://github.com/allenai/ai2thor/issues/934
 **【问题】**
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221104115444.png)
@@ -111,11 +111,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODIyMzU5NzYsLTY5NzkxMjAyMywtMT
-EyNTQwNjE2NiwtNTM1OTM5NDU1LC0xODQ5MjM2MDAzLDE5MzA1
-MzUyMjMsNzUyNjU5MjYxLDE1ODU3NzczNDMsMTQ3MDUzNzQxNy
-wyMTIwMzg5OTcxLDUyOTg5MTcyOCwtMTg3MjA2MDYzNCwxNjcz
-OTgzMDEwLC0yMDUwMjM2MDEsLTIwNTc3OTQ2OTQsLTY2ODgzMz
-IxMywtMTEzMTA1MDM1NiwtMTQ1NjM5NjQyNiwyMTIxMDc4MTEs
-MTgxMzc0NDQxN119
+eyJoaXN0b3J5IjpbLTExNTI5ODU2NiwtNjk3OTEyMDIzLC0xMT
+I1NDA2MTY2LC01MzU5Mzk0NTUsLTE4NDkyMzYwMDMsMTkzMDUz
+NTIyMyw3NTI2NTkyNjEsMTU4NTc3NzM0MywxNDcwNTM3NDE3LD
+IxMjAzODk5NzEsNTI5ODkxNzI4LC0xODcyMDYwNjM0LDE2NzM5
+ODMwMTAsLTIwNTAyMzYwMSwtMjA1Nzc5NDY5NCwtNjY4ODMzMj
+EzLC0xMTMxMDUwMzU2LC0xNDU2Mzk2NDI2LDIxMjEwNzgxMSwx
+ODEzNzQ0NDE3XX0=
 -->
