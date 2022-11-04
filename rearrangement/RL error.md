@@ -25,6 +25,12 @@ https://askubuntu.com/questions/1206767/understanding-glxinfo-error
 http://www.sztemple.cc/articles/linux%E4%B8%8B%E7%9A%84opengl-mesa%E5%92%8Cglx%E7%AE%80%E4%BB%8B
 https://en.wikibooks.org/w/index.php?title=OpenGL_Programming/Installation/Linux&veaction=edit&section=2
 
+## 启动 x-server
+https://github.com/allenai/ai2thor/issues/993
+**【问题】**
+执行不了脚本，没有权限。
+
+
 ## Vulkan
 Vulkan API安装不成功
 
@@ -85,11 +91,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTc3NzM0MywxNDcwNTM3NDE3LDIxMj
-AzODk5NzEsNTI5ODkxNzI4LC0xODcyMDYwNjM0LDE2NzM5ODMw
-MTAsLTIwNTAyMzYwMSwtMjA1Nzc5NDY5NCwtNjY4ODMzMjEzLC
-0xMTMxMDUwMzU2LC0xNDU2Mzk2NDI2LDIxMjEwNzgxMSwxODEz
-NzQ0NDE3LDEwOTY4ODUxOTQsLTE2MjUyMjIxNjcsMTQ2NTA3MD
-EyNywxMTI5MDUzNDA1LC02OTAyODQ3MjksMTg0OTY0NTMyNCwz
-NTY1OTA3MjJdfQ==
+eyJoaXN0b3J5IjpbNzUyNjU5MjYxLDE1ODU3NzczNDMsMTQ3MD
+UzNzQxNywyMTIwMzg5OTcxLDUyOTg5MTcyOCwtMTg3MjA2MDYz
+NCwxNjczOTgzMDEwLC0yMDUwMjM2MDEsLTIwNTc3OTQ2OTQsLT
+Y2ODgzMzIxMywtMTEzMTA1MDM1NiwtMTQ1NjM5NjQyNiwyMTIx
+MDc4MTEsMTgxMzc0NDQxNywxMDk2ODg1MTk0LC0xNjI1MjIyMT
+Y3LDE0NjUwNzAxMjcsMTEyOTA1MzQwNSwtNjkwMjg0NzI5LDE4
+NDk2NDUzMjRdfQ==
 -->
