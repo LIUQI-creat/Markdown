@@ -37,6 +37,7 @@ https://github.com/allenai/ai2thor/issues/993
 执行不了脚本，没有权限。
 **【解决】**
 https://github.com/allenai/ai2thor/issues/325
+联系管理员，管理员说不行。
 
 ### 解决方法2：使用CloudRendering platform
 这样就不启动Xorg server
@@ -109,11 +110,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzkxMjAyMywtMTEyNTQwNjE2NiwtNT
-M1OTM5NDU1LC0xODQ5MjM2MDAzLDE5MzA1MzUyMjMsNzUyNjU5
-MjYxLDE1ODU3NzczNDMsMTQ3MDUzNzQxNywyMTIwMzg5OTcxLD
-UyOTg5MTcyOCwtMTg3MjA2MDYzNCwxNjczOTgzMDEwLC0yMDUw
-MjM2MDEsLTIwNTc3OTQ2OTQsLTY2ODgzMzIxMywtMTEzMTA1MD
-M1NiwtMTQ1NjM5NjQyNiwyMTIxMDc4MTEsMTgxMzc0NDQxNywx
-MDk2ODg1MTk0XX0=
+eyJoaXN0b3J5IjpbLTE5MzcyMTQ5OTksLTY5NzkxMjAyMywtMT
+EyNTQwNjE2NiwtNTM1OTM5NDU1LC0xODQ5MjM2MDAzLDE5MzA1
+MzUyMjMsNzUyNjU5MjYxLDE1ODU3NzczNDMsMTQ3MDUzNzQxNy
+wyMTIwMzg5OTcxLDUyOTg5MTcyOCwtMTg3MjA2MDYzNCwxNjcz
+OTgzMDEwLC0yMDUwMjM2MDEsLTIwNTc3OTQ2OTQsLTY2ODgzMz
+IxMywtMTEzMTA1MDM1NiwtMTQ1NjM5NjQyNiwyMTIxMDc4MTEs
+MTgxMzc0NDQxN119
 -->
