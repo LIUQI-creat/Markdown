@@ -45,6 +45,7 @@ https://github.com/allenai/ai2thor/issues/934
 Vulkan没装好
 
 **【解决】**
+https://linuxconfig.org/install-and-test-vulkan-on-linux
 
 ## Vulkan
 Vulkan API安装不成功
@@ -106,11 +107,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTkzOTQ1NSwtMTg0OTIzNjAwMywxOT
-MwNTM1MjIzLDc1MjY1OTI2MSwxNTg1Nzc3MzQzLDE0NzA1Mzc0
-MTcsMjEyMDM4OTk3MSw1Mjk4OTE3MjgsLTE4NzIwNjA2MzQsMT
-Y3Mzk4MzAxMCwtMjA1MDIzNjAxLC0yMDU3Nzk0Njk0LC02Njg4
-MzMyMTMsLTExMzEwNTAzNTYsLTE0NTYzOTY0MjYsMjEyMTA3OD
-ExLDE4MTM3NDQ0MTcsMTA5Njg4NTE5NCwtMTYyNTIyMjE2Nywx
-NDY1MDcwMTI3XX0=
+eyJoaXN0b3J5IjpbLTkxNzEwOTMxOCwtNTM1OTM5NDU1LC0xOD
+Q5MjM2MDAzLDE5MzA1MzUyMjMsNzUyNjU5MjYxLDE1ODU3Nzcz
+NDMsMTQ3MDUzNzQxNywyMTIwMzg5OTcxLDUyOTg5MTcyOCwtMT
+g3MjA2MDYzNCwxNjczOTgzMDEwLC0yMDUwMjM2MDEsLTIwNTc3
+OTQ2OTQsLTY2ODgzMzIxMywtMTEzMTA1MDM1NiwtMTQ1NjM5Nj
+QyNiwyMTIxMDc4MTEsMTgxMzc0NDQxNywxMDk2ODg1MTk0LC0x
+NjI1MjIyMTY3XX0=
 -->
