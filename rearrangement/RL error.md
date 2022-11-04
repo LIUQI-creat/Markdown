@@ -12,6 +12,9 @@ Platform Linux64 failed validation with the following errors: No valid X display
 
 执行完安装命令，执行glxinfo | grep "OpenGL version"：
 ** Error: unable to open display**
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221104100813.png)
+服务器上不能运行？
+
 
 **【问题】**
 安装需要sudo apt-get ，但是没有权限。
@@ -78,10 +81,10 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5ODkxNzI4LC0xODcyMDYwNjM0LDE2Nz
-M5ODMwMTAsLTIwNTAyMzYwMSwtMjA1Nzc5NDY5NCwtNjY4ODMz
-MjEzLC0xMTMxMDUwMzU2LC0xNDU2Mzk2NDI2LDIxMjEwNzgxMS
-wxODEzNzQ0NDE3LDEwOTY4ODUxOTQsLTE2MjUyMjIxNjcsMTQ2
-NTA3MDEyNywxMTI5MDUzNDA1LC02OTAyODQ3MjksMTg0OTY0NT
-MyNCwzNTY1OTA3MjJdfQ==
+eyJoaXN0b3J5IjpbMjEyMDM4OTk3MSw1Mjk4OTE3MjgsLTE4Nz
+IwNjA2MzQsMTY3Mzk4MzAxMCwtMjA1MDIzNjAxLC0yMDU3Nzk0
+Njk0LC02Njg4MzMyMTMsLTExMzEwNTAzNTYsLTE0NTYzOTY0Mj
+YsMjEyMTA3ODExLDE4MTM3NDQ0MTcsMTA5Njg4NTE5NCwtMTYy
+NTIyMjE2NywxNDY1MDcwMTI3LDExMjkwNTM0MDUsLTY5MDI4ND
+cyOSwxODQ5NjQ1MzI0LDM1NjU5MDcyMl19
 -->
