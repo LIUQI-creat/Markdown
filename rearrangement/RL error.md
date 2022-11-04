@@ -40,6 +40,10 @@ https://github.com/allenai/ai2thor/issues/325
 ### 解决方法2：使用CloudRendering platform
 这样就不启动Xorg server
 https://github.com/allenai/ai2thor/issues/934
+**【问题】**
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221104115444.png)
+Vulkan没装好
+
 
 
 ## Vulkan
@@ -102,11 +106,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDkyMzYwMDMsMTkzMDUzNTIyMyw3NT
-I2NTkyNjEsMTU4NTc3NzM0MywxNDcwNTM3NDE3LDIxMjAzODk5
-NzEsNTI5ODkxNzI4LC0xODcyMDYwNjM0LDE2NzM5ODMwMTAsLT
-IwNTAyMzYwMSwtMjA1Nzc5NDY5NCwtNjY4ODMzMjEzLC0xMTMx
-MDUwMzU2LC0xNDU2Mzk2NDI2LDIxMjEwNzgxMSwxODEzNzQ0ND
-E3LDEwOTY4ODUxOTQsLTE2MjUyMjIxNjcsMTQ2NTA3MDEyNywx
-MTI5MDUzNDA1XX0=
+eyJoaXN0b3J5IjpbLTE3NDE2ODUwNzIsLTE4NDkyMzYwMDMsMT
+kzMDUzNTIyMyw3NTI2NTkyNjEsMTU4NTc3NzM0MywxNDcwNTM3
+NDE3LDIxMjAzODk5NzEsNTI5ODkxNzI4LC0xODcyMDYwNjM0LD
+E2NzM5ODMwMTAsLTIwNTAyMzYwMSwtMjA1Nzc5NDY5NCwtNjY4
+ODMzMjEzLC0xMTMxMDUwMzU2LC0xNDU2Mzk2NDI2LDIxMjEwNz
+gxMSwxODEzNzQ0NDE3LDEwOTY4ODUxOTQsLTE2MjUyMjIxNjcs
+MTQ2NTA3MDEyN119
 -->
