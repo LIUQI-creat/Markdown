@@ -27,6 +27,7 @@ https://en.wikibooks.org/w/index.php?title=OpenGL_Programming/Installation/Linux
 
 ##  解决方法
 ### 解决方法1： 用脚本启动x-server
+**不需要渲染**
 Passing in `headless` in this context means you want a controller without actually rendering any frames (i.e., a metadata-only controller).
 
 > sudo python /PATH/TO/startx.py &
@@ -108,11 +109,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU0MDYxNjYsLTUzNTkzOTQ1NSwtMT
-g0OTIzNjAwMywxOTMwNTM1MjIzLDc1MjY1OTI2MSwxNTg1Nzc3
-MzQzLDE0NzA1Mzc0MTcsMjEyMDM4OTk3MSw1Mjk4OTE3MjgsLT
-E4NzIwNjA2MzQsMTY3Mzk4MzAxMCwtMjA1MDIzNjAxLC0yMDU3
-Nzk0Njk0LC02Njg4MzMyMTMsLTExMzEwNTAzNTYsLTE0NTYzOT
-Y0MjYsMjEyMTA3ODExLDE4MTM3NDQ0MTcsMTA5Njg4NTE5NCwt
-MTYyNTIyMjE2N119
+eyJoaXN0b3J5IjpbLTY5NzkxMjAyMywtMTEyNTQwNjE2NiwtNT
+M1OTM5NDU1LC0xODQ5MjM2MDAzLDE5MzA1MzUyMjMsNzUyNjU5
+MjYxLDE1ODU3NzczNDMsMTQ3MDUzNzQxNywyMTIwMzg5OTcxLD
+UyOTg5MTcyOCwtMTg3MjA2MDYzNCwxNjczOTgzMDEwLC0yMDUw
+MjM2MDEsLTIwNTc3OTQ2OTQsLTY2ODgzMzIxMywtMTEzMTA1MD
+M1NiwtMTQ1NjM5NjQyNiwyMTIxMDc4MTEsMTgxMzc0NDQxNywx
+MDk2ODg1MTk0XX0=
 -->
