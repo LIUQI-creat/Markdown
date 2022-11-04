@@ -53,6 +53,11 @@ https://command-not-found.com/vulkaninfo
 自定义镜像的时候有问题
 https://blog.csdn.net/luolinll1212/article/details/113261022
 
+用编译的方式安装，编译完成了，但是无法
+
+> vulkaninfo | less
+
+
 ## Vulkan
 Vulkan API安装不成功
 
@@ -113,11 +118,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1Mzk2NjUxLC04NDczMjgwMTIsLTExNT
-I5ODU2NiwtNjk3OTEyMDIzLC0xMTI1NDA2MTY2LC01MzU5Mzk0
-NTUsLTE4NDkyMzYwMDMsMTkzMDUzNTIyMyw3NTI2NTkyNjEsMT
-U4NTc3NzM0MywxNDcwNTM3NDE3LDIxMjAzODk5NzEsNTI5ODkx
-NzI4LC0xODcyMDYwNjM0LDE2NzM5ODMwMTAsLTIwNTAyMzYwMS
-wtMjA1Nzc5NDY5NCwtNjY4ODMzMjEzLC0xMTMxMDUwMzU2LC0x
-NDU2Mzk2NDI2XX0=
+eyJoaXN0b3J5IjpbLTE3MzA5MzczNDEsMjU1Mzk2NjUxLC04ND
+czMjgwMTIsLTExNTI5ODU2NiwtNjk3OTEyMDIzLC0xMTI1NDA2
+MTY2LC01MzU5Mzk0NTUsLTE4NDkyMzYwMDMsMTkzMDUzNTIyMy
+w3NTI2NTkyNjEsMTU4NTc3NzM0MywxNDcwNTM3NDE3LDIxMjAz
+ODk5NzEsNTI5ODkxNzI4LC0xODcyMDYwNjM0LDE2NzM5ODMwMT
+AsLTIwNTAyMzYwMSwtMjA1Nzc5NDY5NCwtNjY4ODMzMjEzLC0x
+MTMxMDUwMzU2XX0=
 -->
