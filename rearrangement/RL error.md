@@ -6,17 +6,19 @@ openGL：Ubuntu下的GLX安装不成功。
 ![所需环境](https://raw.githubusercontent.com/LIUQI-creat/pic/main/require.jpg)
 
 **【报错】**
-The following builds were found, but had missing dependencies. Only one valid platform is required to run AI2-THOR.
+1、The following builds were found, but had missing dependencies. Only one valid platform is required to run AI2-THOR.
 Platform Linux64 failed validation with the following errors: No valid X display found
   Linux64 requires a X11 server to be running with GLX. If you have a NVIDIA GPU, please run: **sudo ai2thor-xorg start**
 
-执行完安装命令，执行glxinfo | grep "OpenGL version"：
+2、执行完安装命令，执行glxinfo | grep "OpenGL version"：
 ** Error: unable to open display**
 
 https://askubuntu.com/questions/1206767/understanding-glxinfo-error
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221104100813.png)
 服务器上不能运行？
 
+3、运行训练指令
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221104102343.png)
 
 **【问题】**
 安装需要sudo apt-get ，但是没有权限。
@@ -83,11 +85,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDUzNzQxNywyMTIwMzg5OTcxLDUyOT
-g5MTcyOCwtMTg3MjA2MDYzNCwxNjczOTgzMDEwLC0yMDUwMjM2
-MDEsLTIwNTc3OTQ2OTQsLTY2ODgzMzIxMywtMTEzMTA1MDM1Ni
-wtMTQ1NjM5NjQyNiwyMTIxMDc4MTEsMTgxMzc0NDQxNywxMDk2
-ODg1MTk0LC0xNjI1MjIyMTY3LDE0NjUwNzAxMjcsMTEyOTA1Mz
-QwNSwtNjkwMjg0NzI5LDE4NDk2NDUzMjQsMzU2NTkwNzIyXX0=
-
+eyJoaXN0b3J5IjpbMTU4NTc3NzM0MywxNDcwNTM3NDE3LDIxMj
+AzODk5NzEsNTI5ODkxNzI4LC0xODcyMDYwNjM0LDE2NzM5ODMw
+MTAsLTIwNTAyMzYwMSwtMjA1Nzc5NDY5NCwtNjY4ODMzMjEzLC
+0xMTMxMDUwMzU2LC0xNDU2Mzk2NDI2LDIxMjEwNzgxMSwxODEz
+NzQ0NDE3LDEwOTY4ODUxOTQsLTE2MjUyMjIxNjcsMTQ2NTA3MD
+EyNywxMTI5MDUzNDA1LC02OTAyODQ3MjksMTg0OTY0NTMyNCwz
+NTY1OTA3MjJdfQ==
 -->
