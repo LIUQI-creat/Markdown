@@ -51,7 +51,7 @@ Vulkan还不匹配，还需要重新装下。
 https://linuxconfig.org/install-and-test-vulkan-on-linux
 https://command-not-found.com/vulkaninfo
 自定义镜像的时候有问题
-
+https://blog.csdn.net/luolinll1212/article/details/113261022
 
 ## Vulkan
 Vulkan API安装不成功
@@ -113,11 +113,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzMyODAxMiwtMTE1Mjk4NTY2LC02OT
-c5MTIwMjMsLTExMjU0MDYxNjYsLTUzNTkzOTQ1NSwtMTg0OTIz
-NjAwMywxOTMwNTM1MjIzLDc1MjY1OTI2MSwxNTg1Nzc3MzQzLD
-E0NzA1Mzc0MTcsMjEyMDM4OTk3MSw1Mjk4OTE3MjgsLTE4NzIw
-NjA2MzQsMTY3Mzk4MzAxMCwtMjA1MDIzNjAxLC0yMDU3Nzk0Nj
-k0LC02Njg4MzMyMTMsLTExMzEwNTAzNTYsLTE0NTYzOTY0MjYs
-MjEyMTA3ODExXX0=
+eyJoaXN0b3J5IjpbMjU1Mzk2NjUxLC04NDczMjgwMTIsLTExNT
+I5ODU2NiwtNjk3OTEyMDIzLC0xMTI1NDA2MTY2LC01MzU5Mzk0
+NTUsLTE4NDkyMzYwMDMsMTkzMDUzNTIyMyw3NTI2NTkyNjEsMT
+U4NTc3NzM0MywxNDcwNTM3NDE3LDIxMjAzODk5NzEsNTI5ODkx
+NzI4LC0xODcyMDYwNjM0LDE2NzM5ODMwMTAsLTIwNTAyMzYwMS
+wtMjA1Nzc5NDY5NCwtNjY4ODMzMjEzLC0xMTMxMDUwMzU2LC0x
+NDU2Mzk2NDI2XX0=
 -->
