@@ -45,7 +45,7 @@ https://github.com/allenai/ai2thor/issues/325
 https://github.com/allenai/ai2thor/issues/934
 **【问题】**
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221104115444.png)
-Vulkan还不匹配，还需要重新装下
+Vulkan还不匹配，还需要重新装下。自定义镜像的时候有问题
 
 **【解决】**
 https://linuxconfig.org/install-and-test-vulkan-on-linux
@@ -111,11 +111,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI5ODU2NiwtNjk3OTEyMDIzLC0xMT
-I1NDA2MTY2LC01MzU5Mzk0NTUsLTE4NDkyMzYwMDMsMTkzMDUz
-NTIyMyw3NTI2NTkyNjEsMTU4NTc3NzM0MywxNDcwNTM3NDE3LD
-IxMjAzODk5NzEsNTI5ODkxNzI4LC0xODcyMDYwNjM0LDE2NzM5
-ODMwMTAsLTIwNTAyMzYwMSwtMjA1Nzc5NDY5NCwtNjY4ODMzMj
-EzLC0xMTMxMDUwMzU2LC0xNDU2Mzk2NDI2LDIxMjEwNzgxMSwx
-ODEzNzQ0NDE3XX0=
+eyJoaXN0b3J5IjpbLTg5MDMyNTI4LC0xMTUyOTg1NjYsLTY5Nz
+kxMjAyMywtMTEyNTQwNjE2NiwtNTM1OTM5NDU1LC0xODQ5MjM2
+MDAzLDE5MzA1MzUyMjMsNzUyNjU5MjYxLDE1ODU3NzczNDMsMT
+Q3MDUzNzQxNywyMTIwMzg5OTcxLDUyOTg5MTcyOCwtMTg3MjA2
+MDYzNCwxNjczOTgzMDEwLC0yMDUwMjM2MDEsLTIwNTc3OTQ2OT
+QsLTY2ODgzMzIxMywtMTEzMTA1MDM1NiwtMTQ1NjM5NjQyNiwy
+MTIxMDc4MTFdfQ==
 -->
