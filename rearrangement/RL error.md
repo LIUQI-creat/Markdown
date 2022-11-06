@@ -52,6 +52,7 @@ https://linuxconfig.org/install-and-test-vulkan-on-linux
 https://command-not-found.com/vulkaninfo
 自定义镜像的时候有问题
 https://blog.csdn.net/luolinll1212/article/details/113261022
+https://github.com/allenai/ai2thor/issues/924
 
 用编译的方式安装，编译完成了，但是无法
 
@@ -121,11 +122,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQ4OTMxNjgsLTEzMDkzNjc5NjUsLT
-E3MzA5MzczNDEsMjU1Mzk2NjUxLC04NDczMjgwMTIsLTExNTI5
-ODU2NiwtNjk3OTEyMDIzLC0xMTI1NDA2MTY2LC01MzU5Mzk0NT
-UsLTE4NDkyMzYwMDMsMTkzMDUzNTIyMyw3NTI2NTkyNjEsMTU4
-NTc3NzM0MywxNDcwNTM3NDE3LDIxMjAzODk5NzEsNTI5ODkxNz
-I4LC0xODcyMDYwNjM0LDE2NzM5ODMwMTAsLTIwNTAyMzYwMSwt
-MjA1Nzc5NDY5NF19
+eyJoaXN0b3J5IjpbLTQ5MzEyMjE0NywtMTA4NDg5MzE2OCwtMT
+MwOTM2Nzk2NSwtMTczMDkzNzM0MSwyNTUzOTY2NTEsLTg0NzMy
+ODAxMiwtMTE1Mjk4NTY2LC02OTc5MTIwMjMsLTExMjU0MDYxNj
+YsLTUzNTkzOTQ1NSwtMTg0OTIzNjAwMywxOTMwNTM1MjIzLDc1
+MjY1OTI2MSwxNTg1Nzc3MzQzLDE0NzA1Mzc0MTcsMjEyMDM4OT
+k3MSw1Mjk4OTE3MjgsLTE4NzIwNjA2MzQsMTY3Mzk4MzAxMCwt
+MjA1MDIzNjAxXX0=
 -->
