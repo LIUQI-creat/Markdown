@@ -1,6 +1,8 @@
 ## label me
 https://github.com/wkentaro/labelme
 ### 平台： Windows 、macOS、Ubuntu
+软件安装：https://github.com/wkentaro/labelme/releases
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221109162635.png)
  **Windows**
  ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221109160749.png)
 **Ubuntu**
@@ -11,5 +13,5 @@ https://github.com/wkentaro/labelme
 ### 使用：标注保存为JSON文件
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc3NTUxMzZdfQ==
+eyJoaXN0b3J5IjpbMzA1MTEyMDUsLTE4MTc3NTUxMzZdfQ==
 -->
