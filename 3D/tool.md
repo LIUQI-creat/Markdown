@@ -8,8 +8,8 @@ https://github.com/wkentaro/labelme
 **macOS**
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221109161103.png)
 
-### 使用：biaoz保存为JSON文件
+### 使用：标注保存为JSON文件
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDU5MDk2Nl19
+eyJoaXN0b3J5IjpbLTE4MTc3NTUxMzZdfQ==
 -->
