@@ -20,8 +20,9 @@ https://app.mediatrack.cn/personal/projects/1590366819825221632/files
 ## Pair 
 收费
 ### 获取方式
+平台：Windows 、Ubuntu 、Cent
 可以到坚果云（https://www.jianguoyun.com/p/DUQd8gcQh-n1CBiLvcgD）或者百度盘（https://pan.baidu.com/s/1g-2dUoBRe5U3EdF_aQDg_g，提取码：fxoa）下载最新的版本
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjgwNzA5OSwxNjMxODMzNjk3LDMwNT
-ExMjA1LC0xODE3NzU1MTM2XX0=
+eyJoaXN0b3J5IjpbLTYyMDk4NjEwLDE2MzE4MzM2OTcsMzA1MT
+EyMDUsLTE4MTc3NTUxMzZdfQ==
 -->
