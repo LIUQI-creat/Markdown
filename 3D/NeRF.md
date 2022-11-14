@@ -34,9 +34,10 @@ MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲�
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114202627.png)
 将视线路径均分成N段，在每一段上均匀地随机采样体素用于渲染计算。
 
-##### ## volume sampling
+##### Hierarchical volume sampling
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTMyNDQwOCwxNzA2MTYwMTk2LDE3MT
+eyJoaXN0b3J5IjpbMTAyOTczNDAxMywxNzA2MTYwMTk2LDE3MT
 QwMDEzNDgsNzMwMDA2MzgsLTE0MjIzMDk3MjQsLTE4OTQ4MDU2
 NjYsLTkzMzkxNTgzMCwtMTM1MzEyNjU5NiwxNjEwNjQ1NTYzLD
 IwNDAyOTc2MjJdfQ==
