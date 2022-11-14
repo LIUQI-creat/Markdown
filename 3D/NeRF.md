@@ -7,9 +7,10 @@ Mesh，Point Cloud，Voxel，Volume等
 缺点：离散表示，不够精细化，造成重叠等伪影；对内存的消耗，限制了高分辨率场景的应用
 ### 隐式
 用函数表述场景几何。
-优点：连续的表示，适用于大分辩率场景，不需要3Dxin
+优点：连续的表示，适用于大分辩率场景，不需要3D信号监督
+缺点：无法生成照片级的虚拟视角
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzAxMDY2MTksMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTE4NDg2ODkwNzUsMjA0MDI5NzYyMl19
 -->
