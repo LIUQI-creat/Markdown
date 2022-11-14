@@ -13,11 +13,13 @@ Mesh，Point Cloud，Voxel，Volume等
 ## NeRF
 ### 简介
 实现神经场（Neural Field）与图形学组件体渲染（Volume rendering）有效结合
+#### 用MLP 获取体素信息
+输入：空间中点的位置（x,y,z）和观察方向（）
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA5NDk2NTQsLTEzNTMxMjY1OTYsMT
+eyJoaXN0b3J5IjpbLTE5ODc3OTAyMTQsLTEzNTMxMjY1OTYsMT
 YxMDY0NTU2MywyMDQwMjk3NjIyXX0=
 -->
