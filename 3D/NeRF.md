@@ -49,11 +49,11 @@ MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲�
 #### positional encoding
 深度网络更倾向于学习低频信息，使用高频函数，将输入映射到更高维度的空间，能让网络更好地拟合包含高频变化的数据
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114205455.png)
-这种表示方法，即使两个点在原空间中距离很近，很难分辨，但是经过positional encoding 后，
+这种表示方法，即使两个点在原空间中距离很近，很难分辨，但是经过positional encoding 后，能够轻松分辩
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTAzMjU0MiwtMjA0MjIyODIwMiwtMj
-AzNDY0MjkzNiwtMjU1ODkxODI0LDEwMjk3MzQwMTMsMTcwNjE2
-MDE5NiwxNzE0MDAxMzQ4LDczMDAwNjM4LC0xNDIyMzA5NzI0LC
-0xODk0ODA1NjY2LC05MzM5MTU4MzAsLTEzNTMxMjY1OTYsMTYx
-MDY0NTU2MywyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTEzNTIwNTE4NzgsLTIwNDIyMjgyMDIsLT
+IwMzQ2NDI5MzYsLTI1NTg5MTgyNCwxMDI5NzM0MDEzLDE3MDYx
+NjAxOTYsMTcxNDAwMTM0OCw3MzAwMDYzOCwtMTQyMjMwOTcyNC
+wtMTg5NDgwNTY2NiwtOTMzOTE1ODMwLC0xMzUzMTI2NTk2LDE2
+MTA2NDU1NjMsMjA0MDI5NzYyMl19
 -->
