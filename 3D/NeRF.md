@@ -48,10 +48,11 @@ MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲�
 
 #### positional encoding
 深度网络更倾向于学习低频信息，使用高频函数，将输入映射到更高维度的空间，能让网络更好地拟合包含高频变化的数据
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114205455.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTY2NzUwOSwtMjAzNDY0MjkzNiwtMj
-U1ODkxODI0LDEwMjk3MzQwMTMsMTcwNjE2MDE5NiwxNzE0MDAx
-MzQ4LDczMDAwNjM4LC0xNDIyMzA5NzI0LC0xODk0ODA1NjY2LC
-05MzM5MTU4MzAsLTEzNTMxMjY1OTYsMTYxMDY0NTU2MywyMDQw
-Mjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTIwNDIyMjgyMDIsLTIwMzQ2NDI5MzYsLT
+I1NTg5MTgyNCwxMDI5NzM0MDEzLDE3MDYxNjAxOTYsMTcxNDAw
+MTM0OCw3MzAwMDYzOCwtMTQyMjMwOTcyNCwtMTg5NDgwNTY2Ni
+wtOTMzOTE1ODMwLC0xMzUzMTI2NTk2LDE2MTA2NDU1NjMsMjA0
+MDI5NzYyMl19
 -->
