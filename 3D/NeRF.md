@@ -43,10 +43,14 @@ MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲�
 对w进行归一化：
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114205029.png)
 得到分段常数概率密度函数，然后通过逆变换采样Nf个点，添加至原 Nc 个点中用于 fine 渲染
+最后的Loss：
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114205225.png)
+
+####
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODg5OTc4MCwtMjAzNDY0MjkzNiwtMj
-U1ODkxODI0LDEwMjk3MzQwMTMsMTcwNjE2MDE5NiwxNzE0MDAx
-MzQ4LDczMDAwNjM4LC0xNDIyMzA5NzI0LC0xODk0ODA1NjY2LC
-05MzM5MTU4MzAsLTEzNTMxMjY1OTYsMTYxMDY0NTU2MywyMDQw
-Mjk3NjIyXX0=
+eyJoaXN0b3J5IjpbNjEwMTMxNTksLTIwMzQ2NDI5MzYsLTI1NT
+g5MTgyNCwxMDI5NzM0MDEzLDE3MDYxNjAxOTYsMTcxNDAwMTM0
+OCw3MzAwMDYzOCwtMTQyMjMwOTcyNCwtMTg5NDgwNTY2NiwtOT
+MzOTE1ODMwLC0xMzUzMTI2NTk2LDE2MTA2NDU1NjMsMjA0MDI5
+NzYyMl19
 -->
