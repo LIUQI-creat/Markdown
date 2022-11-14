@@ -46,11 +46,12 @@ MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲�
 最后的Loss：
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114205225.png)
 
-####
+#### positional encoding
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwMTMxNTksLTIwMzQ2NDI5MzYsLTI1NT
-g5MTgyNCwxMDI5NzM0MDEzLDE3MDYxNjAxOTYsMTcxNDAwMTM0
-OCw3MzAwMDYzOCwtMTQyMjMwOTcyNCwtMTg5NDgwNTY2NiwtOT
-MzOTE1ODMwLC0xMzUzMTI2NTk2LDE2MTA2NDU1NjMsMjA0MDI5
-NzYyMl19
+eyJoaXN0b3J5IjpbMjExOTE2MDIyLC0yMDM0NjQyOTM2LC0yNT
+U4OTE4MjQsMTAyOTczNDAxMywxNzA2MTYwMTk2LDE3MTQwMDEz
+NDgsNzMwMDA2MzgsLTE0MjIzMDk3MjQsLTE4OTQ4MDU2NjYsLT
+kzMzkxNTgzMCwtMTM1MzEyNjU5NiwxNjEwNjQ1NTYzLDIwNDAy
+OTc2MjJdfQ==
 -->
