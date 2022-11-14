@@ -11,8 +11,11 @@ Mesh，Point Cloud，Voxel，Volume等
 缺点：无法生成照片级的虚拟视角
 
 ## NeRF
-### 
+### 简介
+实现神经场（Neural Field）与图形学组件Volume rendering有效结合
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDY0NTU2MywyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMTkwNzU3MjE3LDE2MTA2NDU1NjMsMjA0MD
+I5NzYyMl19
 -->
