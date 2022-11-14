@@ -3,9 +3,13 @@
 视角合成使用一个中间3D场景表征作为中介，生成高质量的虚拟视角。根据表示形式，分为显式和隐式
 ### 显式
 Mesh，Point Cloud，Voxel，Volume等
-优点：对场景显式建模，合成照片ji
+优点：对场景显式建模，合成照片级别的虚拟视角。
+缺点：离散表示，不够精细化，造成重叠等伪影；对内存的消耗，限制了高分辨率场景的应用
+### 隐式
+用函数表述场景几何。
+优点：连续的表示，适用于大分辩率场景，不需要3Dxin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDc3NDY2NiwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTIwNzAxMDY2MTksMjA0MDI5NzYyMl19
 -->
