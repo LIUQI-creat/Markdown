@@ -28,9 +28,11 @@ Mesh，Point Cloud，Voxel，Volume等
 将MLP获得的体素密度（σ）和 自发光颜色c = (r, g, b) 通过classical volume rendering 进行渲染，得到期望的颜色，方程如下：
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114194927.png)
 
+MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲染方程变成离散形式进行近似计算：
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjE2MDE5NiwxNzE0MDAxMzQ4LDczMD
-AwNjM4LC0xNDIyMzA5NzI0LC0xODk0ODA1NjY2LC05MzM5MTU4
-MzAsLTEzNTMxMjY1OTYsMTYxMDY0NTU2MywyMDQwMjk3NjIyXX
-0=
+eyJoaXN0b3J5IjpbLTM0NDAwNDI3MCwxNzA2MTYwMTk2LDE3MT
+QwMDEzNDgsNzMwMDA2MzgsLTE0MjIzMDk3MjQsLTE4OTQ4MDU2
+NjYsLTkzMzkxNTgzMCwtMTM1MzEyNjU5NiwxNjEwNjQ1NTYzLD
+IwNDAyOTc2MjJdfQ==
 -->
