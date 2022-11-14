@@ -18,12 +18,12 @@ Mesh，Point Cloud，Voxel，Volume等
 输入：空间中点的位置 x = （x,y,z）和观察方向 d = （θ, φ）
 输出：该点的体素密度（σ）和 自发光颜色c = (r, g, b)
 
-保证多视角一致，
+保证多视角一致，使得体素密度σ只与位置x有关；zifa
 #### 用体素渲染方程获得生成视角图片：光线采样+积分
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjIzMDk3MjQsLTE4OTQ4MDU2NjYsLT
-kzMzkxNTgzMCwtMTM1MzEyNjU5NiwxNjEwNjQ1NTYzLDIwNDAy
-OTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTYzMzcwNjU5NCwtMTQyMjMwOTcyNCwtMT
+g5NDgwNTY2NiwtOTMzOTE1ODMwLC0xMzUzMTI2NTk2LDE2MTA2
+NDU1NjMsMjA0MDI5NzYyMl19
 -->
