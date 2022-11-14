@@ -15,12 +15,12 @@ Mesh，Point Cloud，Voxel，Volume等
 实现神经场（Neural Field）与图形学组件体渲染（Volume rendering）有效结合
 #### 用MLP 获取体素信息
 输入：空间中点的位置（x,y,z）和观察方向（θ, φ）
-输出：该点的体素密度（σ）和 
+输出：该点的体素密度（σ）和 自发光颜色c = (r, g, b)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzkxNTgzMCwtMTM1MzEyNjU5NiwxNj
-EwNjQ1NTYzLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE1NTE1MTkyMDIsLTkzMzkxNTgzMCwtMT
+M1MzEyNjU5NiwxNjEwNjQ1NTYzLDIwNDAyOTc2MjJdfQ==
 -->
