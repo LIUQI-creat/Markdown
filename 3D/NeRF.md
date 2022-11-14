@@ -37,10 +37,10 @@ MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲�
 ##### Hierarchical volume sampling
 上述在N个查询点处密集采样的策略是低效的。因为遮挡和自由空间会被重复采样。
 采用 **分级表征渲染** ，优化coarse和fine两个网络
- 首先分层采样Nc个点，通过coarse网络，即经
+ 首先分层采样Nc个点，根据上述公式评估coarse网络，得到coarse网络的输出后，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDY2MTM4MywtMjU1ODkxODI0LDEwMj
-k3MzQwMTMsMTcwNjE2MDE5NiwxNzE0MDAxMzQ4LDczMDAwNjM4
-LC0xNDIyMzA5NzI0LC0xODk0ODA1NjY2LC05MzM5MTU4MzAsLT
-EzNTMxMjY1OTYsMTYxMDY0NTU2MywyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTE4MjI5MjU1ODgsLTI1NTg5MTgyNCwxMD
+I5NzM0MDEzLDE3MDYxNjAxOTYsMTcxNDAwMTM0OCw3MzAwMDYz
+OCwtMTQyMjMwOTcyNCwtMTg5NDgwNTY2NiwtOTMzOTE1ODMwLC
+0xMzUzMTI2NTk2LDE2MTA2NDU1NjMsMjA0MDI5NzYyMl19
 -->
