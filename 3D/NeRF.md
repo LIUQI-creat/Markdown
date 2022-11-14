@@ -28,8 +28,9 @@ Mesh，Point Cloud，Voxel，Volume等
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114194408.png)
 
 #### 用体素渲染方程获得生成视角图片：光线采样+积分
-将MLP获得的体素密度（σ）和 自发光颜色c = (r, g, b) 通过classical volume rendering 进行渲染，得到期望的颜色，方程如下：
+将MLP获得的体素密度（σ）和 自发光颜色c = (r, g, b) 通过classical volume rendering 进行渲染，得到虚拟相机穿过每个像素的相机光线得到的颜色，方程如下：
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114194927.png)
+体素密度（σ）可以解释为
 
 ##### 离散近似计算
 MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲染方程变成离散形式进行近似计算：
@@ -55,10 +56,10 @@ MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲�
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114205455.png)
 这种表示方法，即使两个点在原空间中距离很近，很难分辨，但是经过positional encoding 后，能够轻松分辩
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODg1MjQ3NiwtMTEwMDg4MjA5MiwtMT
-M1MjA1MTg3OCwtMjA0MjIyODIwMiwtMjAzNDY0MjkzNiwtMjU1
-ODkxODI0LDEwMjk3MzQwMTMsMTcwNjE2MDE5NiwxNzE0MDAxMz
-Q4LDczMDAwNjM4LC0xNDIyMzA5NzI0LC0xODk0ODA1NjY2LC05
-MzM5MTU4MzAsLTEzNTMxMjY1OTYsMTYxMDY0NTU2MywyMDQwMj
-k3NjIyXX0=
+eyJoaXN0b3J5IjpbLTE2MTQwNjY5NjYsLTExMDA4ODIwOTIsLT
+EzNTIwNTE4NzgsLTIwNDIyMjgyMDIsLTIwMzQ2NDI5MzYsLTI1
+NTg5MTgyNCwxMDI5NzM0MDEzLDE3MDYxNjAxOTYsMTcxNDAwMT
+M0OCw3MzAwMDYzOCwtMTQyMjMwOTcyNCwtMTg5NDgwNTY2Niwt
+OTMzOTE1ODMwLC0xMzUzMTI2NTk2LDE2MTA2NDU1NjMsMjA0MD
+I5NzYyMl19
 -->
