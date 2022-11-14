@@ -35,10 +35,10 @@ MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲�
 将视线路径均分成N段，在每一段上均匀地随机采样体素用于渲染计算。
 
 ##### Hierarchical volume sampling
-
+上述在N个查询点处密集采样的策略是低效的。因为遮挡和自由空间
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTczNDAxMywxNzA2MTYwMTk2LDE3MT
-QwMDEzNDgsNzMwMDA2MzgsLTE0MjIzMDk3MjQsLTE4OTQ4MDU2
-NjYsLTkzMzkxNTgzMCwtMTM1MzEyNjU5NiwxNjEwNjQ1NTYzLD
-IwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMTIyMjU3MzU3NSwxMDI5NzM0MDEzLDE3MD
+YxNjAxOTYsMTcxNDAwMTM0OCw3MzAwMDYzOCwtMTQyMjMwOTcy
+NCwtMTg5NDgwNTY2NiwtOTMzOTE1ODMwLC0xMzUzMTI2NTk2LD
+E2MTA2NDU1NjMsMjA0MDI5NzYyMl19
 -->
