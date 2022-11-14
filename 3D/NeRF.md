@@ -25,11 +25,11 @@ Mesh，Point Cloud，Voxel，Volume等
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114194408.png)
 
 #### 用体素渲染方程获得生成视角图片：光线采样+积分
-将MLP获得的体素密度（σ）和 自发光颜色c = (r, g, b) 通过classical volume rendering 进行渲染，方程如下：
+将MLP获得的体素密度（σ）和 自发光颜色c = (r, g, b) 通过classical volume rendering 进行渲染，得到新视角方程如下：
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114194927.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTYyNzgzNyw3MzAwMDYzOCwtMTQyMj
+eyJoaXN0b3J5IjpbMTcxNDAwMTM0OCw3MzAwMDYzOCwtMTQyMj
 MwOTcyNCwtMTg5NDgwNTY2NiwtOTMzOTE1ODMwLC0xMzUzMTI2
 NTk2LDE2MTA2NDU1NjMsMjA0MDI5NzYyMl19
 -->
