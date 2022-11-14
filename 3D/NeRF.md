@@ -22,13 +22,13 @@ Mesh，Point Cloud，Voxel，Volume等
 保证多视角一致，使得体素密度σ只与位置x有关；自发光颜色c与位置x和观察方向d有关。
 
 具体MLP如下：
-
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114194408.png)
 
 #### 用体素渲染方程获得生成视角图片：光线采样+积分
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTc2MTQ5NiwtMTQyMjMwOTcyNCwtMT
-g5NDgwNTY2NiwtOTMzOTE1ODMwLC0xMzUzMTI2NTk2LDE2MTA2
-NDU1NjMsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbNzMwMDA2MzgsLTE0MjIzMDk3MjQsLTE4OT
+Q4MDU2NjYsLTkzMzkxNTgzMCwtMTM1MzEyNjU5NiwxNjEwNjQ1
+NTYzLDIwNDAyOTc2MjJdfQ==
 -->
