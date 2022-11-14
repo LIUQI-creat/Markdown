@@ -40,11 +40,13 @@ MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲�
  分层采样Nc个点，根据上述公式评估coarse网络，得到coarse网络的输出后，沿着每条射线采样更偏向于对颜色计算有贡献的点
  coarse网络：
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114204950.png)
-
+对w进行归一化：
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114205029.png)
+得到分段常数概率密度函数，然后通过逆变换采样Nf个点，添加至原 Nc 个点中用于 fine 渲染
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM5OTA3MjQsLTIwMzQ2NDI5MzYsLT
-I1NTg5MTgyNCwxMDI5NzM0MDEzLDE3MDYxNjAxOTYsMTcxNDAw
-MTM0OCw3MzAwMDYzOCwtMTQyMjMwOTcyNCwtMTg5NDgwNTY2Ni
-wtOTMzOTE1ODMwLC0xMzUzMTI2NTk2LDE2MTA2NDU1NjMsMjA0
-MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTU1ODg5OTc4MCwtMjAzNDY0MjkzNiwtMj
+U1ODkxODI0LDEwMjk3MzQwMTMsMTcwNjE2MDE5NiwxNzE0MDAx
+MzQ4LDczMDAwNjM4LC0xNDIyMzA5NzI0LC0xODk0ODA1NjY2LC
+05MzM5MTU4MzAsLTEzNTMxMjY1OTYsMTYxMDY0NTU2MywyMDQw
+Mjk3NjIyXX0=
 -->
