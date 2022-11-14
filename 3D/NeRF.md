@@ -12,10 +12,10 @@ Mesh，Point Cloud，Voxel，Volume等
 
 ## NeRF
 ### 简介
-实现神经场（Neural Field）与图形学组件Volume rendering有效结合
+实现神经场（Neural Field）与图形学组件tixuanranVolume rendering有效结合
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzU3MjE3LDE2MTA2NDU1NjMsMjA0MD
+eyJoaXN0b3J5IjpbMTgzOTgxNDMxLDE2MTA2NDU1NjMsMjA0MD
 I5NzYyMl19
 -->
