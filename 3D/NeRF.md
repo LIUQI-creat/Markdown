@@ -31,7 +31,7 @@ Mesh，Point Cloud，Voxel，Volume等
 将MLP获得的体素密度（σ）和 自发光颜色c = (r, g, b) 通过classical volume rendering 进行渲染，得到虚拟相机穿过每个像素的相机光线得到的颜色，方程如下：
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114194927.png)
 体素密度（σ）可以解释为射线终止于位置x处的无穷小粒子的微分概率
-T(t)表示沿着射线从tn
+T(t)表示沿着射线从tn到t所累积的透明度，即光线从tn出发到t穿过该路径、不碰到其他粒子的概率
 
 ##### 离散近似计算
 MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲染方程变成离散形式进行近似计算：
@@ -57,7 +57,7 @@ MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲�
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114205455.png)
 这种表示方法，即使两个点在原空间中距离很近，很难分辨，但是经过positional encoding 后，能够轻松分辩
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTYyMjc0MCwtMTYxNDA2Njk2NiwtMT
+eyJoaXN0b3J5IjpbLTExNDc5OTgxNiwtMTYxNDA2Njk2NiwtMT
 EwMDg4MjA5MiwtMTM1MjA1MTg3OCwtMjA0MjIyODIwMiwtMjAz
 NDY0MjkzNiwtMjU1ODkxODI0LDEwMjk3MzQwMTMsMTcwNjE2MD
 E5NiwxNzE0MDAxMzQ4LDczMDAwNjM4LC0xNDIyMzA5NzI0LC0x
