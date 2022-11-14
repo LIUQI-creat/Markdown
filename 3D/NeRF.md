@@ -14,9 +14,10 @@ Mesh，Point Cloud，Voxel，Volume等
 ### 简介
 通过沿着**相机光线（camera rays）**获取 5D 坐标，使用经典的**立体渲染（volume rendering）**技术，我们将输出的颜色和密度投影到图像上，从而实现**新视图合成**
 
-实现神经场（Neural Field）与图形学组件体渲染（Volume rendering）有效结合
+实现**神经场（Neural Field）**与图形学组件**体渲染（Volume rendering）**有效结合
 
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114194140.png)
+
 #### 用MLP 获取体素信息
 输入：空间中点的位置 x = （x,y,z）和观察方向 d = （θ, φ）
 输出：该点的体素密度（σ）和 自发光颜色c = (r, g, b)
@@ -53,9 +54,9 @@ MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲�
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114205455.png)
 这种表示方法，即使两个点在原空间中距离很近，很难分辨，但是经过positional encoding 后，能够轻松分辩
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODMxNTI2NiwtMTM1MjA1MTg3OCwtMj
-A0MjIyODIwMiwtMjAzNDY0MjkzNiwtMjU1ODkxODI0LDEwMjk3
-MzQwMTMsMTcwNjE2MDE5NiwxNzE0MDAxMzQ4LDczMDAwNjM4LC
-0xNDIyMzA5NzI0LC0xODk0ODA1NjY2LC05MzM5MTU4MzAsLTEz
-NTMxMjY1OTYsMTYxMDY0NTU2MywyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTExMDA4ODIwOTIsLTEzNTIwNTE4NzgsLT
+IwNDIyMjgyMDIsLTIwMzQ2NDI5MzYsLTI1NTg5MTgyNCwxMDI5
+NzM0MDEzLDE3MDYxNjAxOTYsMTcxNDAwMTM0OCw3MzAwMDYzOC
+wtMTQyMjMwOTcyNCwtMTg5NDgwNTY2NiwtOTMzOTE1ODMwLC0x
+MzUzMTI2NTk2LDE2MTA2NDU1NjMsMjA0MDI5NzYyMl19
 -->
