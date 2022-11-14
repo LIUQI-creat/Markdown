@@ -25,10 +25,10 @@ Mesh，Point Cloud，Voxel，Volume等
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114194408.png)
 
 #### 用体素渲染方程获得生成视角图片：光线采样+积分
-
+将MLP获得的
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwMDA2MzgsLTE0MjIzMDk3MjQsLTE4OT
-Q4MDU2NjYsLTkzMzkxNTgzMCwtMTM1MzEyNjU5NiwxNjEwNjQ1
-NTYzLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTgyMzU0MjIxNSw3MzAwMDYzOCwtMTQyMj
+MwOTcyNCwtMTg5NDgwNTY2NiwtOTMzOTE1ODMwLC0xMzUzMTI2
+NTk2LDE2MTA2NDU1NjMsMjA0MDI5NzYyMl19
 -->
