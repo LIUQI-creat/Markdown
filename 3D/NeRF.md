@@ -18,10 +18,10 @@ Mesh，Point Cloud，Voxel，Volume等
 输入：空间中点的位置（x,y,z）和观察方向（θ, φ）
 输出：该点的体素密度（σ）和 自发光颜色c = (r, g, b)
 
-#### 用体素渲染方程获得生成视角tuypa
+#### 用体素渲染方程获得生成视角图片：光线采样+积分
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzQ4MDk4NiwtOTMzOTE1ODMwLC0xMz
-UzMTI2NTk2LDE2MTA2NDU1NjMsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTE4OTQ4MDU2NjYsLTkzMzkxNTgzMCwtMT
+M1MzEyNjU5NiwxNjEwNjQ1NTYzLDIwNDAyOTc2MjJdfQ==
 -->
