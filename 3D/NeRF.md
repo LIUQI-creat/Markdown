@@ -19,7 +19,7 @@ Mesh，Point Cloud，Voxel，Volume等
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114194140.png)
 
 #### 用MLP 获取体素信息
-输入：空间中点的位置 x = （x,y,z）和观察方向 d = （θ, φ）
+输入：空间中点的位置 x = （x,y,z）和相机观察该点的方向 d = （θ, φ）
 输出：该点的体素密度（σ）和 自发光颜色c = (r, g, b)
 
 保证多视角一致，使得体素密度σ只与位置x有关；自发光颜色c与位置x和观察方向d有关。
@@ -57,10 +57,10 @@ MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲�
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221114205455.png)
 这种表示方法，即使两个点在原空间中距离很近，很难分辨，但是经过positional encoding 后，能够轻松分辩
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc5OTgxNiwtMTYxNDA2Njk2NiwtMT
-EwMDg4MjA5MiwtMTM1MjA1MTg3OCwtMjA0MjIyODIwMiwtMjAz
-NDY0MjkzNiwtMjU1ODkxODI0LDEwMjk3MzQwMTMsMTcwNjE2MD
-E5NiwxNzE0MDAxMzQ4LDczMDAwNjM4LC0xNDIyMzA5NzI0LC0x
-ODk0ODA1NjY2LC05MzM5MTU4MzAsLTEzNTMxMjY1OTYsMTYxMD
-Y0NTU2MywyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbNTc4Mjc4NzIsLTExNDc5OTgxNiwtMTYxND
+A2Njk2NiwtMTEwMDg4MjA5MiwtMTM1MjA1MTg3OCwtMjA0MjIy
+ODIwMiwtMjAzNDY0MjkzNiwtMjU1ODkxODI0LDEwMjk3MzQwMT
+MsMTcwNjE2MDE5NiwxNzE0MDAxMzQ4LDczMDAwNjM4LC0xNDIy
+MzA5NzI0LC0xODk0ODA1NjY2LC05MzM5MTU4MzAsLTEzNTMxMj
+Y1OTYsMTYxMDY0NTU2MywyMDQwMjk3NjIyXX0=
 -->
