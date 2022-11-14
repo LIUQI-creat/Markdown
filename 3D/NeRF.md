@@ -10,7 +10,9 @@ Mesh，Point Cloud，Voxel，Volume等
 优点：连续的表示，适用于大分辩率场景，不需要3D信号监督
 缺点：无法生成照片级的虚拟视角
 
+## NeRF
+### 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDg2ODkwNzUsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbMTYxMDY0NTU2MywyMDQwMjk3NjIyXX0=
 -->
