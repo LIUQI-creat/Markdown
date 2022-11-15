@@ -23,13 +23,16 @@ LWF可以看做是知识蒸馏和微调的结合，学习对新任务有区别�
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115221854.png)
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115222309.png)
 ### Fine-tuning
-训练θs、θn参数，θo不变，利用小的学习率，希望参数能够稳定在距离原始值不太远的局部最优处。
+训练θs、θn参数，θo不变。利用小的学习率，希望参数能够稳定在距离原始值不太远的局部最优处。
 优点：新任务表现好
 缺点：旧任务表现差
 
 ### Feature Extraction
 训练θn参数，θs、θo不变。
+不修改原始网络，但原始网络中的特性不一定适合新的任务，因此new task performance 一般。
+
+### Joint Training
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjE2NDIxNSw4OTg4NjE3NTcsMTc0NT
-EzNjU0OCwtNTM0NzM4NTkwLDE2MzM2NDEzMDJdfQ==
+eyJoaXN0b3J5IjpbMjI2OTIyNTU3LDg5ODg2MTc1NywxNzQ1MT
+M2NTQ4LC01MzQ3Mzg1OTAsMTYzMzY0MTMwMl19
 -->
