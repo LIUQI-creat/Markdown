@@ -38,8 +38,10 @@ LWF可以看做是知识蒸馏和微调的结合，学习对新任务有区别�
 
 ### Learning without Forgetting
 训练θn、θs、θo参数。
-输入是新任务的训练数据，相比Joint Training 所需数据变少，
+输入是新任务的训练数据，相比Joint Training 所需数据变少。
+新的任务上，表现好于fine-tuning, LFL, fine-tuning FC, and feature extraction
+在旧的任务上，比微调执行得更好
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg4NDA4OTQsODk4ODYxNzU3LDE3ND
-UxMzY1NDgsLTUzNDczODU5MCwxNjMzNjQxMzAyXX0=
+eyJoaXN0b3J5IjpbNDU4NDMzOTM1LDg5ODg2MTc1NywxNzQ1MT
+M2NTQ4LC01MzQ3Mzg1OTAsMTYzMzY0MTMwMl19
 -->
