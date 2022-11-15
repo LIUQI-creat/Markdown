@@ -6,9 +6,9 @@ LWF可以看做是知识蒸馏和微调的结合，学习对新任务有区别�
 
 ### 算法流程
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115215019.png)
- ①首先
-##
+ ①首先记录Y0：新任务的数据
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTUyNTgzNiwtNTM0NzM4NTkwLDE2Mz
-M2NDEzMDJdfQ==
+eyJoaXN0b3J5IjpbODc5NDYyNDI2LC01MzQ3Mzg1OTAsMTYzMz
+Y0MTMwMl19
 -->
