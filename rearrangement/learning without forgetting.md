@@ -33,8 +33,11 @@ LWF可以看做是知识蒸馏和微调的结合，学习对新任务有区别�
 
 ### Joint Training
 训练θn、θs、θo参数。
-输入是所有任务的训练数据，通过整合所有任务的共同知识，改进所有任务。
+输入是所有任务的训练数据，通过整合所有任务的共同知识，改进所有任务。每个任务为其他任务提供正则化
+训练效率慢，需要数据多。
+
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwODUyMjQ2LDg5ODg2MTc1NywxNzQ1MT
+eyJoaXN0b3J5IjpbMzg4MTUzOTkxLDg5ODg2MTc1NywxNzQ1MT
 M2NTQ4LC01MzQ3Mzg1OTAsMTYzMzY0MTMwMl19
 -->
