@@ -23,8 +23,8 @@ LWF可以看做是知识蒸馏和微调的结合，学习对新任务有区别�
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115221854.png)
 
 ### Fine-tuning
-训练θs、θn参数，θo不变，利用小的学习率
+训练θs、θn参数，θo不变，利用小的学习率，希望参数能够稳定在距离原始值不太远的局部最优处。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTgzNjIwMSw4OTg4NjE3NTcsMTc0NT
+eyJoaXN0b3J5IjpbMTIyNDk2OTA4Niw4OTg4NjE3NTcsMTc0NT
 EzNjU0OCwtNTM0NzM4NTkwLDE2MzM2NDEzMDJdfQ==
 -->
