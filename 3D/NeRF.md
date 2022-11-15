@@ -63,9 +63,10 @@ https://github.com/yenchenlin/nerf-pytorch
 
 ## 训练
 5000 iterations：
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115195312.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzYyNjkyMCwtNjMyMTkyMTUzLDU3OD
+eyJoaXN0b3J5IjpbLTY0MTkzMjE4OCwtNjMyMTkyMTUzLDU3OD
 I3ODcyLC0xMTQ3OTk4MTYsLTE2MTQwNjY5NjYsLTExMDA4ODIw
 OTIsLTEzNTIwNTE4NzgsLTIwNDIyMjgyMDIsLTIwMzQ2NDI5Mz
 YsLTI1NTg5MTgyNCwxMDI5NzM0MDEzLDE3MDYxNjAxOTYsMTcx
