@@ -5,10 +5,10 @@ LWF可以看做是知识蒸馏和微调的结合，学习对新任务有区别�
 **输出：**  通过训练整个网络、old task 和new task，得到new task任务上最好的结果
 
 ### 算法流程
- ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115215019.png)
- 
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115215019.png)
+ ①首先
 ##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODg0ODM2OCwtNTM0NzM4NTkwLDE2Mz
+eyJoaXN0b3J5IjpbMTU5NTUyNTgzNiwtNTM0NzM4NTkwLDE2Mz
 M2NDEzMDJdfQ==
 -->
