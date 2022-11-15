@@ -10,9 +10,13 @@ LWF可以看做是知识蒸馏和微调的结合，学习对新任务有区别�
  ②训练网络；
 	 首先warm-up: 固定网络参数θs和old task 参数θo，训练新任务参数θn收敛
 	 之后joint-optimize-step：共同训练θs、θo、θn
-	 warm-up对于LWF是不必须的，知识
+	 warm-up对于LWF是不必须的，加上是为了与微调比较
+③损失函数：
+对于新任务，通过交叉熵损失函数，使得预测的标签接近真实值
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115215928.png)
+dui
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTI0Njk2NiwtNTM0NzM4NTkwLDE2Mz
-M2NDEzMDJdfQ==
+eyJoaXN0b3J5IjpbLTExMDYxNzU3MTcsLTUzNDczODU5MCwxNj
+MzNjQxMzAyXX0=
 -->
