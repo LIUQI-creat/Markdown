@@ -16,10 +16,10 @@ LWF可以看做是知识蒸馏和微调的结合，学习对新任务有区别�
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115215928.png)
 对于旧任务：
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115220044.png)
-通过知识蒸馏Loss，将温度T设置为2，使得使用新任务的数据训练的旧任务的网络参数
+通过知识蒸馏Loss，将温度T设置为2，使得使用新任务的数据训练的旧任务的网络参数更贴近于
 
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyODQ5ODk2LC01MzQ3Mzg1OTAsMTYzMz
-Y0MTMwMl19
+eyJoaXN0b3J5IjpbLTEyNDQxMDU3MjMsLTUzNDczODU5MCwxNj
+MzNjQxMzAyXX0=
 -->
