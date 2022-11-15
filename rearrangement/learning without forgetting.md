@@ -32,8 +32,9 @@ LWF可以看做是知识蒸馏和微调的结合，学习对新任务有区别�
 不修改原始网络，但原始网络中的特性不一定适合新的任务，因此new task performance 一般。
 
 ### Joint Training
-训练θn、θs、θo参数，
+训练θn、θs、θo参数。
+输入是所有任务的训练数据，通过整合所有任务的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk5NzQ5NTcsODk4ODYxNzU3LDE3ND
-UxMzY1NDgsLTUzNDczODU5MCwxNjMzNjQxMzAyXX0=
+eyJoaXN0b3J5IjpbMzk4MzMwMjk1LDg5ODg2MTc1NywxNzQ1MT
+M2NTQ4LC01MzQ3Mzg1OTAsMTYzMzY0MTMwMl19
 -->
