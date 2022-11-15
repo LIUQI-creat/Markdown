@@ -66,13 +66,16 @@ https://github.com/yenchenlin/nerf-pytorch
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115195312.png)
 10000 iterations:
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115195443.png)
-
+15000 iterations:
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115195524.png)
+20000 iterations:
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115195615.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDMzNDUyLC02MzIxOTIxNTMsNTc4Mj
-c4NzIsLTExNDc5OTgxNiwtMTYxNDA2Njk2NiwtMTEwMDg4MjA5
-MiwtMTM1MjA1MTg3OCwtMjA0MjIyODIwMiwtMjAzNDY0MjkzNi
-wtMjU1ODkxODI0LDEwMjk3MzQwMTMsMTcwNjE2MDE5NiwxNzE0
-MDAxMzQ4LDczMDAwNjM4LC0xNDIyMzA5NzI0LC0xODk0ODA1Nj
-Y2LC05MzM5MTU4MzAsLTEzNTMxMjY1OTYsMTYxMDY0NTU2Mywy
-MDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMTQ3MTU5MTU1NSwtNjMyMTkyMTUzLDU3OD
+I3ODcyLC0xMTQ3OTk4MTYsLTE2MTQwNjY5NjYsLTExMDA4ODIw
+OTIsLTEzNTIwNTE4NzgsLTIwNDIyMjgyMDIsLTIwMzQ2NDI5Mz
+YsLTI1NTg5MTgyNCwxMDI5NzM0MDEzLDE3MDYxNjAxOTYsMTcx
+NDAwMTM0OCw3MzAwMDYzOCwtMTQyMjMwOTcyNCwtMTg5NDgwNT
+Y2NiwtOTMzOTE1ODMwLC0xMzUzMTI2NTk2LDE2MTA2NDU1NjMs
+MjA0MDI5NzYyMl19
 -->
