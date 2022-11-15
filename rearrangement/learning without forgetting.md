@@ -14,9 +14,12 @@ LWF可以看做是知识蒸馏和微调的结合，学习对新任务有区别�
 ③损失函数：
 对于新任务，通过交叉熵损失函数，使得预测的标签接近真实值
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115215928.png)
-dui
+对于旧任务：
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221115220044.png)
+通过知识蒸馏Loss，将温度T设置为2，
+
 ## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDYxNzU3MTcsLTUzNDczODU5MCwxNj
-MzNjQxMzAyXX0=
+eyJoaXN0b3J5IjpbMTcyNTI4ODUxNywtNTM0NzM4NTkwLDE2Mz
+M2NDEzMDJdfQ==
 -->
