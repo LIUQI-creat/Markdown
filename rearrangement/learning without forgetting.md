@@ -27,8 +27,9 @@ LWF可以看做是知识蒸馏和微调的结合，学习对新任务有区别�
 优点：新任务表现好
 缺点：旧任务表现差
 
-### Feature Ex
+### Feature Extraction
+训练θn参数，θs、θo不变。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTE0MDkyMyw4OTg4NjE3NTcsMTc0NT
+eyJoaXN0b3J5IjpbLTQzMjE2NDIxNSw4OTg4NjE3NTcsMTc0NT
 EzNjU0OCwtNTM0NzM4NTkwLDE2MzM2NDEzMDJdfQ==
 -->
