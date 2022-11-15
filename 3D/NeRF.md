@@ -60,12 +60,15 @@ MLP仅在固定的离散位置被查询，所以将上面的连续的体素渲�
 ## 相关材料
 https://zhuanlan.zhihu.com/p/380015071
 https://github.com/yenchenlin/nerf-pytorch
+
+## 训练
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjE5MjE1Myw1NzgyNzg3MiwtMTE0Nz
-k5ODE2LC0xNjE0MDY2OTY2LC0xMTAwODgyMDkyLC0xMzUyMDUx
-ODc4LC0yMDQyMjI4MjAyLC0yMDM0NjQyOTM2LC0yNTU4OTE4Mj
-QsMTAyOTczNDAxMywxNzA2MTYwMTk2LDE3MTQwMDEzNDgsNzMw
-MDA2MzgsLTE0MjIzMDk3MjQsLTE4OTQ4MDU2NjYsLTkzMzkxNT
-gzMCwtMTM1MzEyNjU5NiwxNjEwNjQ1NTYzLDIwNDAyOTc2MjJd
-fQ==
+eyJoaXN0b3J5IjpbNDI2MDc0OTIxLC02MzIxOTIxNTMsNTc4Mj
+c4NzIsLTExNDc5OTgxNiwtMTYxNDA2Njk2NiwtMTEwMDg4MjA5
+MiwtMTM1MjA1MTg3OCwtMjA0MjIyODIwMiwtMjAzNDY0MjkzNi
+wtMjU1ODkxODI0LDEwMjk3MzQwMTMsMTcwNjE2MDE5NiwxNzE0
+MDAxMzQ4LDczMDAwNjM4LC0xNDIyMzA5NzI0LC0xODk0ODA1Nj
+Y2LC05MzM5MTU4MzAsLTEzNTMxMjY1OTYsMTYxMDY0NTU2Mywy
+MDQwMjk3NjIyXX0=
 -->
