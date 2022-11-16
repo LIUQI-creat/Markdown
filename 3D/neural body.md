@@ -29,9 +29,9 @@
 
 ### Volume rendering
 与NeRF类似，得到的密度和颜色，通过体素渲染进行渲染，得到像素上的颜色。
-给定一个像素，我们首先使用相机参数计算t
+给定一个像素，我们首先使用相机参数计算它的相机光线，沿着相机光线在近边界和远边界（基于SMPL模型估计场景边界）采样Nk个点，
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODUzMzIxOCw5OTIyMjk1OCw2MzI0NT
-c2Niw1MTM4MjEzMzddfQ==
+eyJoaXN0b3J5IjpbLTE0MTQxNTU5MjcsOTkyMjI5NTgsNjMyND
+U3NjYsNTEzODIxMzM3XX0=
 -->
