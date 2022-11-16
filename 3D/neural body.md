@@ -15,8 +15,8 @@
 ##  论文方法
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116172054.png)
 ### structured latent code
-为了用人体姿态控制隐变量的空间位置，论文将
+为了用人体姿态控制隐变量的空间位置，论文将隐变量放在SMPL的6890个端点上。m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQ5OTUwNzMsOTkyMjI5NTgsNjMyND
-U3NjYsNTEzODIxMzM3XX0=
+eyJoaXN0b3J5IjpbLTY5NDA3OTA5Niw5OTIyMjk1OCw2MzI0NT
+c2Niw1MTM4MjEzMzddfQ==
 -->
