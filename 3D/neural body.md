@@ -31,7 +31,10 @@
 与NeRF类似，得到的密度和颜色，通过体素渲染进行渲染，得到像素上的颜色。
 给定一个像素，我们首先使用相机参数计算它的相机光线，沿着相机光线在近边界和远边界（基于SMPL模型估计场景边界）采样Nk个点，经过上述步骤得到密度和颜色，之后进行近似积分。
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116174737.png)
+
+### Training
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY0NjQ0NDgsOTkyMjI5NTgsNjMyND
-U3NjYsNTEzODIxMzM3XX0=
+eyJoaXN0b3J5IjpbMTU4MTY4NjMyMywtMTQxNjQ2NDQ0OCw5OT
+IyMjk1OCw2MzI0NTc2Niw1MTM4MjEzMzddfQ==
 -->
