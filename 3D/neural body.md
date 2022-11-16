@@ -21,8 +21,11 @@
 因为structured latent code 在3D空间上是稀疏的，因此导致送入NeRF的向量有很多0，因此论文通过3D卷积，把structured latent code变成 latent code volume， 将在端点上的structured latent code扩散到附近的3D空间。
 
 ### Density and color regression
-与Ner
+与NeRF类似，通过MLP获得体素密度和自发光颜色
+**Density model：**只与latent code有关
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116173807.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNzQ2MzcyLDk5MjIyOTU4LDYzMjQ1Nz
-Y2LDUxMzgyMTMzN119
+eyJoaXN0b3J5IjpbLTE5MTk3MTU0OTgsOTkyMjI5NTgsNjMyND
+U3NjYsNTEzODIxMzM3XX0=
 -->
