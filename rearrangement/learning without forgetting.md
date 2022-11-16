@@ -43,10 +43,11 @@ LWF可以看做是知识蒸馏和微调的结合，学习对新任务有区别�
 在旧的任务上，比微调更好
 
 ## 训练结果
-
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116120228.png)
+每次增加5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjAyMjkyLDIwNDMyODU2OTksLTE1MT
-k1NDEyOTEsODk4ODYxNzU3LDE3NDUxMzY1NDgsLTUzNDczODU5
-MCwxNjMzNjQxMzAyXX0=
+eyJoaXN0b3J5IjpbMTE5MjI3MjYyMCwxMjc2MDIyOTIsMjA0Mz
+I4NTY5OSwtMTUxOTU0MTI5MSw4OTg4NjE3NTcsMTc0NTEzNjU0
+OCwtNTM0NzM4NTkwLDE2MzM2NDEzMDJdfQ==
 -->
