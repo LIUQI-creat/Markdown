@@ -8,9 +8,9 @@
  - NeRF只能处理静态场景。对于每个静态场景训练一个网络，对于动态场景，上百帧需要训练上百个网络，成本高
 
 ### 本文的idea
-
+基于观看一个动态的物体更能想象他的3D形状，因此通过整合时序信息来获取足够多的3D shape observation，解决dan
 ##  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzkyNzM3OSw1MTM4MjEzMzddfQ==
+eyJoaXN0b3J5IjpbLTEyNjE0NDQ4MjAsNTEzODIxMzM3XX0=
 -->
