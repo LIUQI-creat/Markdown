@@ -24,8 +24,9 @@
 与NeRF类似，通过MLP获得体素密度和自发光颜色
 **Density model：**只与latent code有关
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116173824.png)
-**Color model：**与latent code、观察视角d、空间位置x
+**Color model：**与latent code、观察视角d、空间位置x、以及latent embendding lt （观察到的ya）有关
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116174041.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTQ0NTIxMCw5OTIyMjk1OCw2MzI0NT
-c2Niw1MTM4MjEzMzddfQ==
+eyJoaXN0b3J5IjpbODE2MDU3Mjg4LDk5MjIyOTU4LDYzMjQ1Nz
+Y2LDUxMzgyMTMzN119
 -->
