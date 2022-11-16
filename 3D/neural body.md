@@ -18,8 +18,11 @@
 为了用人体姿态控制隐变量的空间位置，论文将隐变量放在SMPL的6890个端点上，得到structured latent code。每一帧，根据不同视角的图片，预测SMPL，通过SMPL驱动structured latent code的空间位置。
 
 ### Code diffusion
-因为structured latent code 在3D空间上是稀疏的，因此导致送入NeRF的向量有很多0，因此论文通过3D卷积将端点上的structured latent code扩散到附近的3D空间。
+因为structured latent code 在3D空间上是稀疏的，因此导致送入NeRF的向量有很多0，因此论文通过3D卷积，把structured latent code变成 latent code volume， 将在端点上的structured latent code扩散到附近的3D空间。
+
+### Density and color regression
+与Ner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODc1NTE2Niw5OTIyMjk1OCw2MzI0NT
-c2Niw1MTM4MjEzMzddfQ==
+eyJoaXN0b3J5IjpbNTYxNzQ2MzcyLDk5MjIyOTU4LDYzMjQ1Nz
+Y2LDUxMzgyMTMzN119
 -->
