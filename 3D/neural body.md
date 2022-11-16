@@ -16,6 +16,7 @@
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116172054.png)
 ### structured latent code
 为了用人体姿态控制隐变量的空间位置，论文将隐变量放在SMPL的6890个端点上，得到structured latent code。每一帧，根据不同视角的图片，预测SMPL，通过SMPL驱动structured latent code的空间位置。
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116175756.png)
 
 ### Code diffusion
 因为structured latent code 在3D空间上是稀疏的，因此导致送入NeRF的向量有很多0，因此论文通过3D卷积，把structured latent code变成 latent code volume， 将在端点上的structured latent code扩散到附近的3D空间。
@@ -36,6 +37,6 @@
 与NeRF类似，计算groundtruth图片与合成的图片像素点颜色的L2损失
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116175652.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjM0Njg5NywtMTQxNjQ2NDQ0OCw5OT
-IyMjk1OCw2MzI0NTc2Niw1MTM4MjEzMzddfQ==
+eyJoaXN0b3J5IjpbNTk0ODc3NTM4LC0xNDE2NDY0NDQ4LDk5Mj
+IyOTU4LDYzMjQ1NzY2LDUxMzgyMTMzN119
 -->
