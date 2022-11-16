@@ -33,8 +33,9 @@
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116174737.png)
 
 ### Training
-
+与NeRF类似，计算groundtruth图片与合成的图片像素点颜色的L2损失
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116175652.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTY4NjMyMywtMTQxNjQ2NDQ0OCw5OT
+eyJoaXN0b3J5IjpbMTU1NjM0Njg5NywtMTQxNjQ2NDQ0OCw5OT
 IyMjk1OCw2MzI0NTc2Niw1MTM4MjEzMzddfQ==
 -->
