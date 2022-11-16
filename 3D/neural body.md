@@ -23,9 +23,9 @@
 
 ### Density and color regression
 与NeRF类似，通过MLP获得体素密度和自发光颜色
-**Density model：**只与latent code有关
+**Density model：** 只与latent code有关
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116173824.png)
-**Color model：**与latent code、观察视角d、空间位置x、以及latent embendding lt （观察到的颜色与实践也有一定关系）有关
+**Color model：** 与latent code、观察视角d、空间位置x、以及latent embendding lt （观察到的颜色与实践也有一定关系）有关
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116174041.png)
 
 ### Volume rendering
@@ -37,6 +37,7 @@
 与NeRF类似，计算groundtruth图片与合成的图片像素点颜色的L2损失
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116175652.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0ODc3NTM4LC0xNDE2NDY0NDQ4LDk5Mj
-IyOTU4LDYzMjQ1NzY2LDUxMzgyMTMzN119
+eyJoaXN0b3J5IjpbMTkyMjcwODczMCw1OTQ4Nzc1MzgsLTE0MT
+Y0NjQ0NDgsOTkyMjI5NTgsNjMyNDU3NjYsNTEzODIxMzM3XX0=
+
 -->
