@@ -4,12 +4,13 @@
 解决从稀疏的相机视角，生成动态人体的自由视角的视频
 
 ### 当前方法的局限性
-
  - NeRF需要非常稠密的视角来训练网络。对于动态物体，设备成本高，并且不方便
- - NeRF只能处理静态场景。对于每个静态场景训练一个网络，对于动态场景，上百帧需要xunli
+ - NeRF只能处理静态场景。对于每个静态场景训练一个网络，对于动态场景，上百帧需要训练上百个网络，成本高
+
+### 本文的idea
 
 ##  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3MjYxNzc3LDUxMzgyMTMzN119
+eyJoaXN0b3J5IjpbMjAzNzkyNzM3OSw1MTM4MjEzMzddfQ==
 -->
