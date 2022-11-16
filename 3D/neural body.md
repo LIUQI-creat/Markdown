@@ -23,9 +23,9 @@
 ### Density and color regression
 与NeRF类似，通过MLP获得体素密度和自发光颜色
 **Density model：**只与latent code有关
-![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116173807.png)
-
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116173824.png)
+**Color model：**与latent code、观察视角d、空间位置x
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk3MTU0OTgsOTkyMjI5NTgsNjMyND
-U3NjYsNTEzODIxMzM3XX0=
+eyJoaXN0b3J5IjpbMjA0NTQ0NTIxMCw5OTIyMjk1OCw2MzI0NT
+c2Niw1MTM4MjEzMzddfQ==
 -->
