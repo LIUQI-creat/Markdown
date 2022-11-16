@@ -14,8 +14,9 @@
 
 ##  论文方法
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116172054.png)
-### 
+### structured latent code
+为了用人体姿态控制隐变量的空间位置，论文将
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyMjI5NTgsNjMyNDU3NjYsNTEzODIxMz
-M3XX0=
+eyJoaXN0b3J5IjpbLTEyMjQ5OTUwNzMsOTkyMjI5NTgsNjMyND
+U3NjYsNTEzODIxMzM3XX0=
 -->
