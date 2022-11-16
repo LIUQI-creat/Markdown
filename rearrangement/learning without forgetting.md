@@ -48,8 +48,10 @@ LWF可以看做是知识蒸馏和微调的结合，学习对新任务有区别�
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116120402.png)
 是每5类的分类预测结果
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDExNzQwOSwxMjc2MDIyOTIsMjA0Mz
-I4NTY5OSwtMTUxOTU0MTI5MSw4OTg4NjE3NTcsMTc0NTEzNjU0
-OCwtNTM0NzM4NTkwLDE2MzM2NDEzMDJdfQ==
+eyJoaXN0b3J5IjpbMTMyNjU2NDc5NSwtMTY0MTE3NDA5LDEyNz
+YwMjI5MiwyMDQzMjg1Njk5LC0xNTE5NTQxMjkxLDg5ODg2MTc1
+NywxNzQ1MTM2NTQ4LC01MzQ3Mzg1OTAsMTYzMzY0MTMwMl19
 -->
