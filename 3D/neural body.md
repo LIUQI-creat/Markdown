@@ -9,9 +9,9 @@
 
 ### 本文的idea
 基于观看一个动态的物体更能想象他的3D形状，因此通过整合时序信息来获取足够多的3D shape observation，解决稀疏视角下，单帧信息不足以恢复正确的3D scene representation
-定义一组隐变量，从同一组隐变量中生成不同帧的场景，能把bu
+定义一组隐变量，从同一组隐变量中生成不同帧的场景，能把不同帧观察的信息和一组隐变量关联到一起。经过训练能把一段视频的各个帧的信息整合到隐变量中，从而实现整合时序信息的目的。
 ##  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Nzc5MzM4MCw1MTM4MjEzMzddfQ==
+eyJoaXN0b3J5IjpbNjMyNDU3NjYsNTEzODIxMzM3XX0=
 -->
