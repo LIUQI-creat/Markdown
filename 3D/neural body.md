@@ -13,9 +13,9 @@
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116171936.png)
 
 ##  论文方法
-
-
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116172054.png)
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDI4OTY4MCw2MzI0NTc2Niw1MTM4Mj
-EzMzddfQ==
+eyJoaXN0b3J5IjpbOTkyMjI5NTgsNjMyNDU3NjYsNTEzODIxMz
+M3XX0=
 -->
