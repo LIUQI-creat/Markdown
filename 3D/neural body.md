@@ -26,7 +26,10 @@
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116173824.png)
 **Color model：**与latent code、观察视角d、空间位置x、以及latent embendding lt （观察到的颜色与实践也有一定关系）有关
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116174041.png)
+
+### Volume rendering
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk2Nzk5MTcsOTkyMjI5NTgsNjMyND
-U3NjYsNTEzODIxMzM3XX0=
+eyJoaXN0b3J5IjpbLTYzNjc1NDk4Miw5OTIyMjk1OCw2MzI0NT
+c2Niw1MTM4MjEzMzddfQ==
 -->
