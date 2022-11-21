@@ -42,13 +42,15 @@
 #### visualization
  - Visualize novel views of single frame
 	 两张P40，使用预训练模型latest.pth，时间4：43
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221121161131.png)
  - Visualize views of dynamic humans with fixed camera
-	 时间8：10
+	预训练模型，时间8：10
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221121161308.png)
  - Visualize mesh
 
 ####  Training on People-Snapshot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTU1NTczOCwxOTIyNzA4NzMwLDU5ND
-g3NzUzOCwtMTQxNjQ2NDQ0OCw5OTIyMjk1OCw2MzI0NTc2Niw1
-MTM4MjEzMzddfQ==
+eyJoaXN0b3J5IjpbMTMzODYwODUwMCwxMzYxNTU1NzM4LDE5Mj
+I3MDg3MzAsNTk0ODc3NTM4LC0xNDE2NDY0NDQ4LDk5MjIyOTU4
+LDYzMjQ1NzY2LDUxMzgyMTMzN119
 -->
