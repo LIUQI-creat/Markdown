@@ -36,8 +36,19 @@
 ### Training
 与NeRF类似，计算groundtruth图片与合成的图片像素点颜色的L2损失
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221116175652.png)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjcwODczMCw1OTQ4Nzc1MzgsLTE0MT
-Y0NjQ0NDgsOTkyMjI5NTgsNjMyNDU3NjYsNTEzODIxMzM3XX0=
 
+
+### 复现
+#### visualization
+ - Visualize novel views of single frame
+	 两张P40，使用预训练模型latest.pth，时间4：43
+ - Visualize views of dynamic humans with fixed camera
+	 时间8：10
+ - Visualize mesh
+
+####  Training on People-Snapshot
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM2MTU1NTczOCwxOTIyNzA4NzMwLDU5ND
+g3NzUzOCwtMTQxNjQ2NDQ0OCw5OTIyMjk1OCw2MzI0NTc2Niw1
+MTM4MjEzMzddfQ==
 -->
