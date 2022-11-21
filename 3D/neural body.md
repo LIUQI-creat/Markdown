@@ -41,7 +41,7 @@
 ### 复现
 #### visualization
  - Visualize novel views of single frame
-	 两张P40，使用预训练模型latest.pth，时间4：43
+	 1张P40，使用预训练模型latest.pth，时间4：43
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221121161131.png)
  - Visualize views of dynamic humans with fixed camera
 	预训练模型，时间8：10
@@ -52,7 +52,8 @@
 	No module named 'OpenGL'
 ####  Training on People-Snapshot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDk2MDc3NywxMzM4NjA4NTAwLDEzNj
-E1NTU3MzgsMTkyMjcwODczMCw1OTQ4Nzc1MzgsLTE0MTY0NjQ0
-NDgsOTkyMjI5NTgsNjMyNDU3NjYsNTEzODIxMzM3XX0=
+eyJoaXN0b3J5IjpbNDU3ODk0NzMwLC01NTA5NjA3NzcsMTMzOD
+YwODUwMCwxMzYxNTU1NzM4LDE5MjI3MDg3MzAsNTk0ODc3NTM4
+LC0xNDE2NDY0NDQ4LDk5MjIyOTU4LDYzMjQ1NzY2LDUxMzgyMT
+MzN119
 -->
