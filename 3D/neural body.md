@@ -46,14 +46,16 @@
  - Visualize views of dynamic humans with fixed camera
 	预训练模型，时间8：10
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221121161308.png)
-	为啥这么模糊？
+	
+	为啥这么模糊？重新再来一遍：
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221121171333.png)
 	
  - Visualize mesh
 	No module named 'OpenGL'
 ####  Training on People-Snapshot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3ODk0NzMwLC01NTA5NjA3NzcsMTMzOD
-YwODUwMCwxMzYxNTU1NzM4LDE5MjI3MDg3MzAsNTk0ODc3NTM4
-LC0xNDE2NDY0NDQ4LDk5MjIyOTU4LDYzMjQ1NzY2LDUxMzgyMT
-MzN119
+eyJoaXN0b3J5IjpbMTc1Mzk1ODA0Miw0NTc4OTQ3MzAsLTU1MD
+k2MDc3NywxMzM4NjA4NTAwLDEzNjE1NTU3MzgsMTkyMjcwODcz
+MCw1OTQ4Nzc1MzgsLTE0MTY0NjQ0NDgsOTkyMjI5NTgsNjMyND
+U3NjYsNTEzODIxMzM3XX0=
 -->
