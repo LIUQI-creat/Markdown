@@ -47,10 +47,10 @@
 	预训练模型，时间8：10
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221121161308.png)
  - Visualize mesh
-	
+	No module named 'OpenGL'
 ####  Training on People-Snapshot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODczNjQzNiwxMzM4NjA4NTAwLDEzNj
-E1NTU3MzgsMTkyMjcwODczMCw1OTQ4Nzc1MzgsLTE0MTY0NjQ0
-NDgsOTkyMjI5NTgsNjMyNDU3NjYsNTEzODIxMzM3XX0=
+eyJoaXN0b3J5IjpbLTE2NTk2MTE0NjMsMTMzODYwODUwMCwxMz
+YxNTU1NzM4LDE5MjI3MDg3MzAsNTk0ODc3NTM4LC0xNDE2NDY0
+NDQ4LDk5MjIyOTU4LDYzMjQ1NzY2LDUxMzgyMTMzN119
 -->
