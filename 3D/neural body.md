@@ -70,12 +70,14 @@ tensorbood：
  - Test on unseen human poses
 
 ##### Visualization on ZJU-MoCap
--   Visualize novel views of single frame
-- -   Visualize novel views of single frame by rotating the SMPL model
+-  Visualize novel views of single frame
+-   Visualize novel views of single frame by rotating the SMPL model
+-   Visualize views of dynamic humans with fixed camera
+-   Visualize views of dynamic humans with rotated camera
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc3Mzc3MzcsMjczNjA4NTkzLDE2NT
-g4NTg2OTgsMTc1Mzk1ODA0Miw0NTc4OTQ3MzAsLTU1MDk2MDc3
-NywxMzM4NjA4NTAwLDEzNjE1NTU3MzgsMTkyMjcwODczMCw1OT
-Q4Nzc1MzgsLTE0MTY0NjQ0NDgsOTkyMjI5NTgsNjMyNDU3NjYs
-NTEzODIxMzM3XX0=
+eyJoaXN0b3J5IjpbLTE4OTc3MDg1MywyNzM2MDg1OTMsMTY1OD
+g1ODY5OCwxNzUzOTU4MDQyLDQ1Nzg5NDczMCwtNTUwOTYwNzc3
+LDEzMzg2MDg1MDAsMTM2MTU1NTczOCwxOTIyNzA4NzMwLDU5ND
+g3NzUzOCwtMTQxNjQ2NDQ0OCw5OTIyMjk1OCw2MzI0NTc2Niw1
+MTM4MjEzMzddfQ==
 -->
