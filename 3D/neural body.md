@@ -75,19 +75,22 @@ tensorbood：
 	 metric：![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122224303.png)
  - Test on unseen human poses
 	 metric:
-	 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122230304.png)
+	![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122230304.png)
 
 ##### Visualization on ZJU-MoCap
 -  Visualize novel views of single frame
+	lasted.pth:
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122231109.png)
 -   Visualize novel views of single frame by rotating the SMPL model
 -   Visualize views of dynamic humans with fixed camera
 -   Visualize views of dynamic humans with rotated camera
 
 ##### Training on ZJU-MoCap
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI4NzQ3OTcsLTY0MDkzNDEyLDUwOD
-YwNjIxNiwyNzM2MDg1OTMsMTY1ODg1ODY5OCwxNzUzOTU4MDQy
-LDQ1Nzg5NDczMCwtNTUwOTYwNzc3LDEzMzg2MDg1MDAsMTM2MT
-U1NTczOCwxOTIyNzA4NzMwLDU5NDg3NzUzOCwtMTQxNjQ2NDQ0
-OCw5OTIyMjk1OCw2MzI0NTc2Niw1MTM4MjEzMzddfQ==
+eyJoaXN0b3J5IjpbNDg3MzY5ODUsLTE1MjI4NzQ3OTcsLTY0MD
+kzNDEyLDUwODYwNjIxNiwyNzM2MDg1OTMsMTY1ODg1ODY5OCwx
+NzUzOTU4MDQyLDQ1Nzg5NDczMCwtNTUwOTYwNzc3LDEzMzg2MD
+g1MDAsMTM2MTU1NTczOCwxOTIyNzA4NzMwLDU5NDg3NzUzOCwt
+MTQxNjQ2NDQ0OCw5OTIyMjk1OCw2MzI0NTc2Niw1MTM4MjEzMz
+ddfQ==
 -->
