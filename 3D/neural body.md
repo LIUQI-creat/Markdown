@@ -39,7 +39,7 @@
 
 
 ### 复现
-#### visualization
+#### Run the code on People-Snapshot
  - Visualize novel views of single frame
 	 1张P40，使用预训练模型latest.pth，时间4：43
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221121161131.png)
@@ -59,9 +59,9 @@
 tensorbood：
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122125346.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNjA4NTkzLDE2NTg4NTg2OTgsMTc1Mz
-k1ODA0Miw0NTc4OTQ3MzAsLTU1MDk2MDc3NywxMzM4NjA4NTAw
-LDEzNjE1NTU3MzgsMTkyMjcwODczMCw1OTQ4Nzc1MzgsLTE0MT
-Y0NjQ0NDgsOTkyMjI5NTgsNjMyNDU3NjYsNTEzODIxMzM3XX0=
-
+eyJoaXN0b3J5IjpbLTEyNzM2NjQ3NjMsMjczNjA4NTkzLDE2NT
+g4NTg2OTgsMTc1Mzk1ODA0Miw0NTc4OTQ3MzAsLTU1MDk2MDc3
+NywxMzM4NjA4NTAwLDEzNjE1NTU3MzgsMTkyMjcwODczMCw1OT
+Q4Nzc1MzgsLTE0MTY0NjQ0NDgsOTkyMjI5NTgsNjMyNDU3NjYs
+NTEzODIxMzM3XX0=
 -->
