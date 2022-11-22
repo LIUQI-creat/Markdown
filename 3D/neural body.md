@@ -40,6 +40,7 @@
 
 ### 复现
 #### Run the code on People-Snapshot
+##### visualization
  - Visualize novel views of single frame
 	 1张P40，使用预训练模型latest.pth，时间4：43
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221121161131.png)
@@ -52,16 +53,23 @@
 	
  - Visualize mesh
 	No module named 'OpenGL'
-####  Training on People-Snapshot
+#####  Training on People-Snapshot
 - Training
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122095406.png)
 
 tensorbood：
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122125346.png)
+
+加个可视化结果
+
+
+#### Run the code on ZJU-MoCap
+##### 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzM2NjQ3NjMsMjczNjA4NTkzLDE2NT
-g4NTg2OTgsMTc1Mzk1ODA0Miw0NTc4OTQ3MzAsLTU1MDk2MDc3
-NywxMzM4NjA4NTAwLDEzNjE1NTU3MzgsMTkyMjcwODczMCw1OT
-Q4Nzc1MzgsLTE0MTY0NjQ0NDgsOTkyMjI5NTgsNjMyNDU3NjYs
-NTEzODIxMzM3XX0=
+eyJoaXN0b3J5IjpbLTQzMTA2MzAwOCwyNzM2MDg1OTMsMTY1OD
+g1ODY5OCwxNzUzOTU4MDQyLDQ1Nzg5NDczMCwtNTUwOTYwNzc3
+LDEzMzg2MDg1MDAsMTM2MTU1NTczOCwxOTIyNzA4NzMwLDU5ND
+g3NzUzOCwtMTQxNjQ2NDQ0OCw5OTIyMjk1OCw2MzI0NTc2Niw1
+MTM4MjEzMzddfQ==
 -->
