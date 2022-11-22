@@ -74,6 +74,7 @@ tensorbood：
 	 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122224826.png)
 	 metric：![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122224303.png)
  - Test on unseen human poses
+	 meti
 
 ##### Visualization on ZJU-MoCap
 -  Visualize novel views of single frame
@@ -83,9 +84,9 @@ tensorbood：
 
 ##### Training on ZJU-MoCap
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDkzNDEyLDUwODYwNjIxNiwyNzM2MD
-g1OTMsMTY1ODg1ODY5OCwxNzUzOTU4MDQyLDQ1Nzg5NDczMCwt
-NTUwOTYwNzc3LDEzMzg2MDg1MDAsMTM2MTU1NTczOCwxOTIyNz
-A4NzMwLDU5NDg3NzUzOCwtMTQxNjQ2NDQ0OCw5OTIyMjk1OCw2
-MzI0NTc2Niw1MTM4MjEzMzddfQ==
+eyJoaXN0b3J5IjpbMTU2Mjk4OTIzMSwtNjQwOTM0MTIsNTA4Nj
+A2MjE2LDI3MzYwODU5MywxNjU4ODU4Njk4LDE3NTM5NTgwNDIs
+NDU3ODk0NzMwLC01NTA5NjA3NzcsMTMzODYwODUwMCwxMzYxNT
+U1NzM4LDE5MjI3MDg3MzAsNTk0ODc3NTM4LC0xNDE2NDY0NDQ4
+LDk5MjIyOTU4LDYzMjQ1NzY2LDUxMzgyMTMzN119
 -->
