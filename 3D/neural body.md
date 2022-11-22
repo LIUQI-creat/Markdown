@@ -74,10 +74,12 @@ tensorbood：
 -   Visualize novel views of single frame by rotating the SMPL model
 -   Visualize views of dynamic humans with fixed camera
 -   Visualize views of dynamic humans with rotated camera
+
+##### Training on ZJU-MoCap
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc3MDg1MywyNzM2MDg1OTMsMTY1OD
-g1ODY5OCwxNzUzOTU4MDQyLDQ1Nzg5NDczMCwtNTUwOTYwNzc3
-LDEzMzg2MDg1MDAsMTM2MTU1NTczOCwxOTIyNzA4NzMwLDU5ND
-g3NzUzOCwtMTQxNjQ2NDQ0OCw5OTIyMjk1OCw2MzI0NTc2Niw1
-MTM4MjEzMzddfQ==
+eyJoaXN0b3J5IjpbNTY4MzI3NDM3LDI3MzYwODU5MywxNjU4OD
+U4Njk4LDE3NTM5NTgwNDIsNDU3ODk0NzMwLC01NTA5NjA3Nzcs
+MTMzODYwODUwMCwxMzYxNTU1NzM4LDE5MjI3MDg3MzAsNTk0OD
+c3NTM4LC0xNDE2NDY0NDQ4LDk5MjIyOTU4LDYzMjQ1NzY2LDUx
+MzgyMTMzN119
 -->
