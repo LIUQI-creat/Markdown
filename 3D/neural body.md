@@ -67,7 +67,11 @@ tensorbood：
 ##### Test on ZJU-MoCap
 
  - Test on training human poses
-	 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122224303.png)
+     lasted.pth：
+	 gt：
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122224649.png)
+	 实际：
+	 metric：![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122224303.png)
  - Test on unseen human poses
 
 ##### Visualization on ZJU-MoCap
@@ -78,9 +82,9 @@ tensorbood：
 
 ##### Training on ZJU-MoCap
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4NjA2MjE2LDI3MzYwODU5MywxNjU4OD
-U4Njk4LDE3NTM5NTgwNDIsNDU3ODk0NzMwLC01NTA5NjA3Nzcs
-MTMzODYwODUwMCwxMzYxNTU1NzM4LDE5MjI3MDg3MzAsNTk0OD
-c3NTM4LC0xNDE2NDY0NDQ4LDk5MjIyOTU4LDYzMjQ1NzY2LDUx
-MzgyMTMzN119
+eyJoaXN0b3J5IjpbLTEyMjk5NzA5MTEsNTA4NjA2MjE2LDI3Mz
+YwODU5MywxNjU4ODU4Njk4LDE3NTM5NTgwNDIsNDU3ODk0NzMw
+LC01NTA5NjA3NzcsMTMzODYwODUwMCwxMzYxNTU1NzM4LDE5Mj
+I3MDg3MzAsNTk0ODc3NTM4LC0xNDE2NDY0NDQ4LDk5MjIyOTU4
+LDYzMjQ1NzY2LDUxMzgyMTMzN119
 -->
