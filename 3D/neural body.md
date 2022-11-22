@@ -55,9 +55,13 @@
 ####  Training on People-Snapshot
 - Training
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122095406.png)
+
+tensorbood：
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122125346.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODg1ODY5OCwxNzUzOTU4MDQyLDQ1Nz
-g5NDczMCwtNTUwOTYwNzc3LDEzMzg2MDg1MDAsMTM2MTU1NTcz
-OCwxOTIyNzA4NzMwLDU5NDg3NzUzOCwtMTQxNjQ2NDQ0OCw5OT
-IyMjk1OCw2MzI0NTc2Niw1MTM4MjEzMzddfQ==
+eyJoaXN0b3J5IjpbMjczNjA4NTkzLDE2NTg4NTg2OTgsMTc1Mz
+k1ODA0Miw0NTc4OTQ3MzAsLTU1MDk2MDc3NywxMzM4NjA4NTAw
+LDEzNjE1NTU3MzgsMTkyMjcwODczMCw1OTQ4Nzc1MzgsLTE0MT
+Y0NjQ0NDgsOTkyMjI5NTgsNjMyNDU3NjYsNTEzODIxMzM3XX0=
+
 -->
