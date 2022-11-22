@@ -71,6 +71,7 @@ tensorbood：
 	 gt：
 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122224649.png)
 	 实际：
+	 ![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122224826.png)
 	 metric：![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122224303.png)
  - Test on unseen human poses
 
@@ -82,9 +83,9 @@ tensorbood：
 
 ##### Training on ZJU-MoCap
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjk5NzA5MTEsNTA4NjA2MjE2LDI3Mz
-YwODU5MywxNjU4ODU4Njk4LDE3NTM5NTgwNDIsNDU3ODk0NzMw
-LC01NTA5NjA3NzcsMTMzODYwODUwMCwxMzYxNTU1NzM4LDE5Mj
-I3MDg3MzAsNTk0ODc3NTM4LC0xNDE2NDY0NDQ4LDk5MjIyOTU4
-LDYzMjQ1NzY2LDUxMzgyMTMzN119
+eyJoaXN0b3J5IjpbLTY0MDkzNDEyLDUwODYwNjIxNiwyNzM2MD
+g1OTMsMTY1ODg1ODY5OCwxNzUzOTU4MDQyLDQ1Nzg5NDczMCwt
+NTUwOTYwNzc3LDEzMzg2MDg1MDAsMTM2MTU1NTczOCwxOTIyNz
+A4NzMwLDU5NDg3NzUzOCwtMTQxNjQ2NDQ0OCw5OTIyMjk1OCw2
+MzI0NTc2Niw1MTM4MjEzMzddfQ==
 -->
