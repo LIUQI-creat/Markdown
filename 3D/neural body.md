@@ -53,9 +53,11 @@
  - Visualize mesh
 	No module named 'OpenGL'
 ####  Training on People-Snapshot
+- T
+![](https://raw.githubusercontent.com/LIUQI-creat/pic/main/20221122095406.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Mzk1ODA0Miw0NTc4OTQ3MzAsLTU1MD
-k2MDc3NywxMzM4NjA4NTAwLDEzNjE1NTU3MzgsMTkyMjcwODcz
-MCw1OTQ4Nzc1MzgsLTE0MTY0NjQ0NDgsOTkyMjI5NTgsNjMyND
-U3NjYsNTEzODIxMzM3XX0=
+eyJoaXN0b3J5IjpbLTQ0NDU5MTIzOCwxNzUzOTU4MDQyLDQ1Nz
+g5NDczMCwtNTUwOTYwNzc3LDEzMzg2MDg1MDAsMTM2MTU1NTcz
+OCwxOTIyNzA4NzMwLDU5NDg3NzUzOCwtMTQxNjQ2NDQ0OCw5OT
+IyMjk1OCw2MzI0NTc2Niw1MTM4MjEzMzddfQ==
 -->
