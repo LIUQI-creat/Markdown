@@ -64,6 +64,7 @@ https://www.dianjilingqu.com/444537.html
 
 ## Vulkan
 Vulkan API安装不成功
+https://vulkan.lunarg.com/issue/home?limit=10;q=;mine=false;org=false;khronos=false;lunarg=false;indie=false;status=new,open
 
 **【报错】**
 Exception: The following builds were found, but had missing dependencies. Only one valid platform is required to run AI2-THOR.
@@ -122,11 +123,11 @@ vector_sampled_tasks.py           163
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzE0OTgzMCwtNDkzMTIyMTQ3LC0xMD
-g0ODkzMTY4LC0xMzA5MzY3OTY1LC0xNzMwOTM3MzQxLDI1NTM5
-NjY1MSwtODQ3MzI4MDEyLC0xMTUyOTg1NjYsLTY5NzkxMjAyMy
-wtMTEyNTQwNjE2NiwtNTM1OTM5NDU1LC0xODQ5MjM2MDAzLDE5
-MzA1MzUyMjMsNzUyNjU5MjYxLDE1ODU3NzczNDMsMTQ3MDUzNz
-QxNywyMTIwMzg5OTcxLDUyOTg5MTcyOCwtMTg3MjA2MDYzNCwx
-NjczOTgzMDEwXX0=
+eyJoaXN0b3J5IjpbMTA5MjE5MDQzNSwxMTEzMTQ5ODMwLC00OT
+MxMjIxNDcsLTEwODQ4OTMxNjgsLTEzMDkzNjc5NjUsLTE3MzA5
+MzczNDEsMjU1Mzk2NjUxLC04NDczMjgwMTIsLTExNTI5ODU2Ni
+wtNjk3OTEyMDIzLC0xMTI1NDA2MTY2LC01MzU5Mzk0NTUsLTE4
+NDkyMzYwMDMsMTkzMDUzNTIyMyw3NTI2NTkyNjEsMTU4NTc3Nz
+M0MywxNDcwNTM3NDE3LDIxMjAzODk5NzEsNTI5ODkxNzI4LC0x
+ODcyMDYwNjM0XX0=
 -->
